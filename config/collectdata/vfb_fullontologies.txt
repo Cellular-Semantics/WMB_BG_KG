@@ -1,0 +1,2 @@
+https://github.com/Cellular-Semantics/whole_mouse_brain_ontology/releases/download/v2025-05-09/wmbo-full.owl
+https://github.com/Cellular-Semantics/hmba_basal_ganglia_ontology/raw/refs/heads/main/bgo-full.owl
