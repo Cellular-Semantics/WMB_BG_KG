@@ -96,11 +96,12 @@ curie_map:
   HsapDv: http://purl.obolibrary.org/obo/HsapDv_
   GO: http://purl.obolibrary.org/obo/GO_
   UniProtKB: https://identifiers.org/uniprot/
+  skos: http://www.w3.org/2004/02/skos/core#
+  IAO: http://purl.obolibrary.org/obo/IAO_
+  oboInOwl: http://www.geneontology.org/formats/oboInOwl#
+  BG: https://purl.brain-bican.org/ontology/CS20250428/
+  WMB: https://purl.brain-bican.org/taxonomy/CCN20230722/
+  
+  
 
-filters:
-  solr:
-    exclusion:
-      iri_prefix:
-        - http://virtualflybrain.org/reports/VFBc_
-      neo4j_node_label:
-        - Channel
+
