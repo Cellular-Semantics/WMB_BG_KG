@@ -45,9 +45,6 @@ class Neo4jNamedQueries:
     '''
     # Add more named queries as needed
 
-def pretty_json(obj):
-    return json.dumps(obj, indent=2, ensure_ascii=False)
-
 def main():
     parser = argparse.ArgumentParser(description="Run named Neo4j queries and output TSV.")
     parser.add_argument('--args', type=str, required=True, help='JSON string or path to JSON file with args')
@@ -82,16 +79,32 @@ def main():
     df = pd.DataFrame(results)
 
     # Pretty print any object cells as JSON, quoted for TSV/CSV compatibility
-    def pretty_json_cell(x):
-        if isinstance(x, (dict, list)):
-            return json.dumps(x, indent=2, ensure_ascii=False)
+    def dicts_to_excel_multiline(dicts):
+        try:
+            return "\r\n".join(f"{d.get('labelset','')}: {d.get('cell_set','')}" for d in dicts)
+        except Exception:
+            return str(dicts)
+
+    def dict_to_multiline(kv):
+        try:
+            return "\r\n".join(f"{k}: {v}" for k, v in kv.items())
+        except Exception:
+            return str(kv)
+
+    def excel_cell_formatter(x):
+        # Lists of dicts -> concise multiline key:value pairs
+        if isinstance(x, list) and x and all(isinstance(i, dict) for i in x):
+            return dicts_to_excel_multiline(x)
+        # Single dict -> key: value lines
+        if isinstance(x, dict):
+            return dict_to_multiline(x)
+        # Other lists -> one item per line
+        if isinstance(x, list):
+            return "\r\n".join(str(i) for i in x)
         return x
 
-    for col in df.columns:
-        df[col] = df[col].apply(pretty_json_cell)
-
     # Output TSV with quoting for multiline compatibility using csv writer (RFC4180 style)
-    def write_tsv_with_csv(df, output_path=None):
+    def write_csv_with_csv(df, output_path=None):
         # Prepare rows
         rows = []
         cols = list(df.columns)
@@ -104,24 +117,80 @@ def main():
                 else:
                     row.append(str(v))
             rows.append(row)
-
         if output_path:
             with open(output_path, 'w', newline='', encoding='utf-8') as f:
-                writer = csv.writer(f, delimiter='\t', quoting=csv.QUOTE_ALL, lineterminator='\n')
+                writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_ALL, lineterminator='\r\n')
                 writer.writerow(cols)
                 writer.writerows(rows)
         else:
             buf = io.StringIO()
-            writer = csv.writer(buf, delimiter='\t', quoting=csv.QUOTE_ALL, lineterminator='\n')
+            writer = csv.writer(buf, delimiter=',', quoting=csv.QUOTE_ALL, lineterminator='\r\n')
             writer.writerow(cols)
             writer.writerows(rows)
             # print without adding extra newline
             sys.stdout.write(buf.getvalue())
 
-    if args.output:
-        write_tsv_with_csv(df, args.output)
-    else:
-        write_tsv_with_csv(df, None)
+    # Prepare CSV: compact single-line JSON for object cells
+    def compact_json_cell(x):
+        if isinstance(x, (dict, list)):
+            return json.dumps(x, separators=(',', ':'), ensure_ascii=False)
+        return x
+
+    df_csv = df.copy()
+    for col in df_csv.columns:
+        df_csv[col] = df_csv[col].apply(compact_json_cell)
+
+    # Write CSV (comma-delimited) using CRLF and UTF-8
+    csv_output = args.output or 'reports/report.csv'
+    write_csv_with_csv(df_csv, csv_output)
+
+    # Prepare Markdown: pretty-printed JSON with <br> for newlines
+    def pretty_html_cell(x):
+        if isinstance(x, (dict, list)):
+            pretty = json.dumps(x, indent=2, ensure_ascii=False)
+            # replace newlines with <br> and preserve indentation with &nbsp;
+            return '<br>'.join(line.replace(' ', '&nbsp;') for line in pretty.splitlines())
+        return str(x)
+
+    md_lines = []
+    cols = list(df.columns)
+    # Header
+    md_lines.append('| ' + ' | '.join(cols) + ' |')
+    md_lines.append('| ' + ' | '.join(['---'] * len(cols)) + ' |')
+    for _, r in df.iterrows():
+        cells = [pretty_html_cell(r[c]) for c in cols]
+        md_lines.append('| ' + ' | '.join(cells) + ' |')
+
+    md_output = Path(csv_output).with_suffix('.md')
+
+    # Append the exact query and the passed parameters to the Markdown report
+    query_section_lines = []
+    query_section_lines.append('')
+    query_section_lines.append('## Query')
+    query_section_lines.append('')
+    query_section_lines.append('```cypher')
+    # Preserve the query formatting
+    for line in (query_str or '').splitlines():
+        query_section_lines.append(line)
+    query_section_lines.append('```')
+
+    # Add parameters used for the query, if any
+    try:
+        has_params = bool(query_args)
+    except NameError:
+        has_params = False
+
+    if has_params:
+        query_section_lines.append('')
+        query_section_lines.append('## Parameters')
+        query_section_lines.append('')
+        query_section_lines.append('```json')
+        # Pretty-print parameters for human readability
+        query_section_lines.append(json.dumps(query_args, indent=2, ensure_ascii=False))
+        query_section_lines.append('```')
+
+    md_content = '\n'.join(md_lines) + '\n' + '\n'.join(query_section_lines) + '\n'
+    md_output.write_text(md_content, encoding='utf-8')
 
 if __name__ == "__main__":
     main()

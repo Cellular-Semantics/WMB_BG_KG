@@ -2,3 +2,4 @@ requests
 ipython
 pandas 
 jupyter
+neo4j

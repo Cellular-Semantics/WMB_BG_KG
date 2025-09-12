@@ -2,7 +2,7 @@
 BG2WMB_TEMPLATE = src/templates/BG2WMB_AT_map_template.tsv
 BG2WMB_OWL = owl/BG2WMB.owl
 REPORTS_DIR = reports
-REPORT_BG_MAPPINGS = $(REPORTS_DIR)/BG_mappings.tsv
+REPORT_BG_MAPPINGS = $(REPORTS_DIR)/BG_mappings.csv
 NEO4J_BOLT ?= bolt://localhost:7687
 
 .PHONY: all template owl report_BG_mappings
