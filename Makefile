@@ -5,7 +5,10 @@ REPORTS_DIR = reports
 REPORT_BG_MAPPINGS = $(REPORTS_DIR)/BG_mappings.csv
 NEO4J_BOLT ?= bolt://localhost:7687
 
-.PHONY: all template owl report_BG_mappings
+.PHONY: all template owl report_BG_mappings fetch_bg2wmb_mappings
+# Download MWB_consensus_homology.csv from Google Sheets
+fetch_bg2wmb_mappings:
+	python3 src/scripts/fetch_bg2wmb_mappings.py
 
 all: template owl 
 

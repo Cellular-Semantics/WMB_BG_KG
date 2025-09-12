@@ -3,12 +3,15 @@
 import argparse
 import json
 import sys
-import pandas as pd
 import csv
 from pathlib import Path
 import importlib.util
 import os
 import io
+try:
+    import pandas as pd
+except Exception:
+    pd = None
 
 # Robust import for neo4j_bolt_wrapper
 def import_neo4j_bolt_wrapper():
@@ -49,7 +52,8 @@ def main():
     parser = argparse.ArgumentParser(description="Run named Neo4j queries and output TSV.")
     parser.add_argument('--args', type=str, required=True, help='JSON string or path to JSON file with args')
     parser.add_argument('--query', type=str, required=True, help='Named query to run')
-    parser.add_argument('--endpoint', type=str, required=True, help='Neo4j bolt endpoint')
+    parser.add_argument('--endpoint', type=str, required=False, default=None, help='Neo4j bolt endpoint')
+    parser.add_argument('--dry-run', action='store_true', help='Run a local dry-run using mock results instead of Neo4j')
     parser.add_argument('--user', type=str, default=None, help='Neo4j username')
     parser.add_argument('--password', type=str, default=None, help='Neo4j password')
     parser.add_argument('--output', type=str, default=None, help='Output TSV file path')
@@ -68,15 +72,39 @@ def main():
         print(f"Query '{args.query}' not found in Neo4jNamedQueries.", file=sys.stderr)
         sys.exit(1)
 
-    # Connect and run query
-    wrapper = Neo4jBoltQueryWrapper(args.endpoint, args.user, args.password)
-    results = wrapper.run_query(query_str, query_args, return_type=None)
+    # Connect and run query (or dry-run using mock data)
+    if args.dry_run:
+        # Create a small mock result to exercise CSV/MD generation
+        results = [
+            {
+                'Group': 'TEST Group',
+                'cl_mappings': [
+                    {'id': 'CL:0000001', 'name': 'test cell', 'labelset': 'Group', 'cell_set': 'TEST Group'}
+                ],
+                'WMB_AT': [
+                    {'labelset': 'supertype', 'cell_set': '0123 TEST Supertype'}
+                ],
+                'refs': ['https://doi.org/example'],
+                'no_cl_mapping': False
+            }
+        ]
+    else:
+        wrapper = Neo4jBoltQueryWrapper(args.endpoint, args.user, args.password)
+        results = wrapper.run_query(query_str, query_args, return_type=None)
 
-    # Convert results to DataFrame
+    # Convert results to DataFrame or keep as list-of-dicts for dry-run/no-pandas
     if not results:
         print("No results returned.")
         sys.exit(0)
-    df = pd.DataFrame(results)
+
+    # If pandas is available and not in dry-run, use it; otherwise operate on list-of-dicts
+    use_dataframe = (pd is not None) and (not args.dry_run)
+    if use_dataframe:
+        df = pd.DataFrame(results)
+    else:
+        df = None
+        rows = results
+        cols = list(results[0].keys())
 
     # Pretty print any object cells as JSON, quoted for TSV/CSV compatibility
     def dicts_to_excel_multiline(dicts):
@@ -140,9 +168,41 @@ def main():
     for col in df_csv.columns:
         df_csv[col] = df_csv[col].apply(compact_json_cell)
 
+    # Helper to write rows (list-of-dicts) using the same CSV writer
+    def write_rows_csv(rows, cols, output_path=None):
+        out_rows = []
+        for r in rows:
+            row = []
+            for c in cols:
+                v = r.get(c, None)
+                if v is None:
+                    row.append("")
+                else:
+                    # compact JSON if necessary
+                    row.append(str(compact_json_cell(v)))
+            out_rows.append(row)
+        if output_path:
+            with open(output_path, 'w', newline='', encoding='utf-8') as f:
+                writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_ALL, lineterminator='\r\n')
+                writer.writerow(cols)
+                writer.writerows(out_rows)
+        else:
+            buf = io.StringIO()
+            writer = csv.writer(buf, delimiter=',', quoting=csv.QUOTE_ALL, lineterminator='\r\n')
+            writer.writerow(cols)
+            writer.writerows(out_rows)
+            sys.stdout.write(buf.getvalue())
+
     # Write CSV (comma-delimited) using CRLF and UTF-8
     csv_output = args.output or 'reports/report.csv'
-    write_csv_with_csv(df_csv, csv_output)
+    if use_dataframe:
+        # prepare compact JSON in dataframe then write
+        df_csv = df.copy()
+        for col in df_csv.columns:
+            df_csv[col] = df_csv[col].apply(compact_json_cell)
+        write_csv_with_csv(df_csv, csv_output)
+    else:
+        write_rows_csv(rows, cols, csv_output)
 
     # Prepare Markdown: pretty-printed JSON with <br> for newlines
     def pretty_html_cell(x):
@@ -153,13 +213,21 @@ def main():
         return str(x)
 
     md_lines = []
-    cols = list(df.columns)
-    # Header
-    md_lines.append('| ' + ' | '.join(cols) + ' |')
-    md_lines.append('| ' + ' | '.join(['---'] * len(cols)) + ' |')
-    for _, r in df.iterrows():
-        cells = [pretty_html_cell(r[c]) for c in cols]
-        md_lines.append('| ' + ' | '.join(cells) + ' |')
+    if use_dataframe:
+        cols = list(df.columns)
+        # Header
+        md_lines.append('| ' + ' | '.join(cols) + ' |')
+        md_lines.append('| ' + ' | '.join(['---'] * len(cols)) + ' |')
+        for _, r in df.iterrows():
+            cells = [pretty_html_cell(r[c]) for c in cols]
+            md_lines.append('| ' + ' | '.join(cells) + ' |')
+    else:
+        cols = cols
+        md_lines.append('| ' + ' | '.join(cols) + ' |')
+        md_lines.append('| ' + ' | '.join(['---'] * len(cols)) + ' |')
+        for r in rows:
+            cells = [pretty_html_cell(r.get(c)) for c in cols]
+            md_lines.append('| ' + ' | '.join(cells) + ' |')
 
     md_output = Path(csv_output).with_suffix('.md')
 
