@@ -1,0 +1,1407 @@
+"Group"	"cl_mappings"	"WMB_AT"	"refs"	"no_cl_mapping"
+"SN GATA3-PAX8 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""SN GATA3-PAX8 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""F M GATA3 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	"[
+  ""https://doi.org/10.3389/fnins.2022.976209""
+]"	"True"
+"GPi Core"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""GPi Core"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN ONECUT1 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0461 ZI Pax6 Gaba_3""
+  }
+]"	"[
+  ""https://doi.org/10.1016/j.neuron.2017.03.017""
+]"	"True"
+"STR SST-CHODL GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STR SST-CHODL GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""STR SST-CHODL GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN MGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	"[
+  ""https://doi.org/10.1038/s41586-020-2874-8""
+]"	"True"
+"OB FRMD7 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""OB FRMD7 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""ACx MEIS2 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""Cx GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	""	"True"
+"VTR-HTH Glut"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""VTR-HTH Glut"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""F M Glut"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M Glut"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Glut Sero Dopa"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	""	"True"
+"GPe-NDB-SI LHX6-LHX8-GBX1 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""GPe-NDB-SI LHX6-LHX8-GBX1 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN LHX8 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	""	"True"
+"SN GATA3-PVALB GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""SN GATA3-PVALB GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""F M GATA3 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0806 SNr Six3 Gaba_1""
+  }
+]"	"[
+  ""https://doi.org/10.3389/fnins.2022.976209""
+]"	"True"
+"GPi Shell"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""GPi Shell"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN GABA-Glut"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN GABA-Glut"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA-Glut"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0504 GPi Tbr1 Cngb3 Gaba-Glut_1""
+  }
+]"	"[
+  ""https://doi.org/10.1016/j.neuron.2017.03.017""
+]"	"True"
+"LAMP5-CXCL14 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""LAMP5-CXCL14 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN LAMP5-CXCL14 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN CGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	""	"True"
+"GPe MEIS2-SOX6 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""GPe MEIS2-SOX6 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN MEIS2 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN LGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0257 GPe-SI Sox6 Cyp26b1 Gaba_1""
+  }
+]"	""	"True"
+"SN SEMA5A GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""SN SEMA5A GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""SN PAX7 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	""	"True"
+"STRd Cholinergic GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STRd Cholinergic GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN Cholinergic GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN MGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0260 PAL-STR Gaba-Chol_2""
+  }
+]"	""	"True"
+"ZI-HTH GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""ZI-HTH GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""F GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	""	"True"
+"VIP GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""VIP GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN VIP GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN CGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	"[
+  ""https://doi.org/10.1038/s41586-020-2874-8""
+]"	"True"
+"AMY-SLEA-BNST D1 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""AMY-SLEA-BNST D1 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""F GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	""	"True"
+"STR LYPD6-RSPO2 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STR LYPD6-RSPO2 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""STR RSPO2 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN MGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0212 Pvalb Gaba_8""
+  }
+]"	""	"True"
+"GPin-BF Cholinergic GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""GPin-BF Cholinergic GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN Cholinergic GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN MGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0259 PAL-STR Gaba-Chol_1""
+  }
+]"	""	"True"
+"AMY-SLEA-BNST GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""AMY-SLEA-BNST GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""F GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0384 CEA-BST Ebf1 Pdyn Gaba_1""
+  }
+]"	""	"True"
+"GPe SOX6-CTXND1 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""GPe SOX6-CTXND1 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN LHX8 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0247 NDB-SI-MA-STRv Lhx8 Gaba_4""
+  }
+]"	""	"True"
+"SN-VTR-HTH GATA3-TCF7L2 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""SN-VTR-HTH GATA3-TCF7L2 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""F M GATA3 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0829 PRT Tcf7l2 Gaba_1""
+  }
+]"	""	"True"
+"STR-BF TAC3-PLPP4-LHX8 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STR-BF TAC3-PLPP4-LHX8 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN ST18 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN MGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0236 STR Lhx8 Gaba_1""
+  }
+]"	""	"True"
+"STH PVALB-PITX2 Glut"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STH PVALB-PITX2 Glut"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""F Glut"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M Glut"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Glut Sero Dopa"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0602 STN-PSTN Pitx2 Glut_5""
+  }
+]"	"[
+  ""https://doi.org/10.1038/s41586-023-06812-z""
+]"	"True"
+"OB Dopa-GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""OB Dopa-GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""ACx MEIS2 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""Cx GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0163 OB Dopa-Gaba_2""
+  }
+]"	""	"True"
+"STR SST-ADARB2 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STR SST-ADARB2 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""STR SST GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN MGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	""	"True"
+"BF SKOR1 Glut"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""BF SKOR1 Glut"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""F Glut"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M Glut"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Glut Sero Dopa"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	""	"True"
+"STR Cholinergic GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STR Cholinergic GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN Cholinergic GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN MGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0260 PAL-STR Gaba-Chol_2""
+  }
+]"	""	"True"
+"STR SST-RSPO2 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STR SST-RSPO2 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""STR RSPO2 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN MGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0228 Sst Gaba_15""
+  }
+]"	""	"True"
+"SN EBF2 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""SN EBF2 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""SN PAX7 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""F M GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	""	"True"
+"LAMP5-LHX6 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""LAMP5-LHX6 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN LAMP5-LHX6 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN MGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0203 Lamp5 Lhx6 Gaba_1""
+  }
+]"	""	"True"
+"SN-VTR CALB1 Dopa"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""SN-VTR CALB1 Dopa"",
+    ""name"": ""substantia nigra dopaminergic neuron"",
+    ""id"": ""CL:4042025""
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""M Dopa"",
+    ""name"": ""substantia nigra dopaminergic neuron"",
+    ""id"": ""CL:4042025""
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""M Dopa"",
+    ""name"": ""midbrain dopaminergic neuron"",
+    ""id"": ""CL:2000097""
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Glut Sero Dopa"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0882 SNc-VTA-RAmb Foxa1 Dopa_3""
+  }
+]"	"[
+  ""https://doi.org/10.1038/s41467-020-17876-0""
+]"	"False"
+"SN-VTR GAD2 Dopa"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""SN-VTR GAD2 Dopa"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""M Dopa"",
+    ""name"": ""substantia nigra dopaminergic neuron"",
+    ""id"": ""CL:4042025""
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""M Dopa"",
+    ""name"": ""midbrain dopaminergic neuron"",
+    ""id"": ""CL:2000097""
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Glut Sero Dopa"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	"[
+  ""https://doi.org/10.1101/2024.06.06.597807""
+]"	"False"
+"STR D1D2 Hybrid MSN"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STR D1D2 Hybrid MSN"",
+    ""name"": ""D1/D2-hybrid medium spiny neuron"",
+    ""id"": ""CL:4030050""
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""STR Hybrid MSN"",
+    ""name"": ""D1/D2-hybrid medium spiny neuron"",
+    ""id"": ""CL:4030050""
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN LGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	"[
+  ""https://doi.org/10.1016/j.cub.2021.10.015""
+]"	"False"
+"STR TAC3-PLPP4 GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STR TAC3-PLPP4 GABA"",
+    ""name"": ""TAC3-positive striatal interneuron"",
+    ""id"": ""CL:4042001""
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN ST18 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN MGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0236 STR Lhx8 Gaba_1""
+  }
+]"	"[
+  ""https://doi.org/10.1038/s41586-020-2874-8""
+]"	"False"
+"STRv D1 NUDAP MSN"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STRv D1 NUDAP MSN"",
+    ""name"": ""RXFP1-positive interface island D1-medium spiny neuron"",
+    ""id"": ""CL:4030054""
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""STR Hybrid MSN"",
+    ""name"": ""D1/D2-hybrid medium spiny neuron"",
+    ""id"": ""CL:4030050""
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN LGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	"[
+  ""https://doi.org/10.1016/j.cub.2021.10.015""
+]"	"False"
+"STR FS PTHLH-PVALB GABA"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STR FS PTHLH-PVALB GABA"",
+    ""name"": ""striatal pthlh-expressing interneuron"",
+    ""id"": ""CL:4042023""
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""CN ST18 GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN MGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0234 STR Prox1 Lhx6 Gaba_2""
+  }
+]"	"[
+  ""https://doi.org/10.1016/j.celrep.2018.07.053""
+]"	"False"
+"OT D1 ICj"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""OT D1 ICj"",
+    ""name"": ""Island of Calleja granule cell"",
+    ""id"": ""CL:4030053""
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""OT Granular GABA"",
+    ""name"": ""Island of Calleja granule cell"",
+    ""id"": ""CL:4030053""
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN LGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	"[
+  ""https://doi.org/10.1016/j.cub.2021.10.015""
+]"	"False"
+"STRd D1 Matrix MSN"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STRd D1 Matrix MSN"",
+    ""name"": ""matrix D1 medium spiny neuron"",
+    ""id"": ""CL:4030043""
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""STR D1 MSN"",
+    ""name"": ""direct pathway medium spiny neuron"",
+    ""id"": ""CL:4023026""
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN LGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0267 STR D1 Gaba_3""
+  }
+]"	"[
+  ""https://doi.org/10.1016/j.cub.2021.10.015""
+]"	"False"
+"STRv D1 MSN"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STRv D1 MSN"",
+    ""name"": ""nucleus accumbens shell and olfactory tubercle D1 medium spiny neuron"",
+    ""id"": ""CL:4030051""
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""STR D1 MSN"",
+    ""name"": ""direct pathway medium spiny neuron"",
+    ""id"": ""CL:4023026""
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN LGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	"[
+  ""https://doi.org/10.1016/j.cub.2021.10.015""
+]"	"False"
+"STRd D2 Striosome MSN"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STRd D2 Striosome MSN"",
+    ""name"": ""striosomal D2 medium spiny neuron"",
+    ""id"": ""CL:4030049""
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""STR D2 MSN"",
+    ""name"": ""indirect pathway medium spiny neuron"",
+    ""id"": ""CL:4023029""
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN LGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0279 STR D2 Gaba_6""
+  }
+]"	"[
+  ""https://doi.org/10.1016/j.cub.2021.10.015""
+]"	"False"
+"STRd D1 Striosome MSN"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STRd D1 Striosome MSN"",
+    ""name"": ""striosomal D1 medium spiny neuron"",
+    ""id"": ""CL:4030048""
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""STR D1 MSN"",
+    ""name"": ""direct pathway medium spiny neuron"",
+    ""id"": ""CL:4023026""
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN LGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0268 STR D1 Gaba_4""
+  }
+]"	"[
+  ""https://doi.org/10.1016/j.cub.2021.10.015""
+]"	"False"
+"SN SOX6 Dopa"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""SN SOX6 Dopa"",
+    ""name"": ""substantia nigra dopaminergic neuron"",
+    ""id"": ""CL:4042025""
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""M Dopa"",
+    ""name"": ""substantia nigra dopaminergic neuron"",
+    ""id"": ""CL:4042025""
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""M Dopa"",
+    ""name"": ""midbrain dopaminergic neuron"",
+    ""id"": ""CL:2000097""
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Glut Sero Dopa"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	"[
+  ""https://doi.org/10.1038/s41593-022-01061-1""
+]"	"False"
+"STRd D2 StrioMat Hybrid MSN"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STRd D2 StrioMat Hybrid MSN"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""STR D2 MSN"",
+    ""name"": ""indirect pathway medium spiny neuron"",
+    ""id"": ""CL:4023029""
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN LGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0279 STR D2 Gaba_6""
+  }
+]"	""	"False"
+"STRd D2 Matrix MSN"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STRd D2 Matrix MSN"",
+    ""name"": ""matrix D2 medium spiny neuron"",
+    ""id"": ""CL:4030047""
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""STR D2 MSN"",
+    ""name"": ""indirect pathway medium spiny neuron"",
+    ""id"": ""CL:4023029""
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN LGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": ""supertype"",
+    ""cell_set"": ""0277 STR D2 Gaba_4""
+  }
+]"	"[
+  ""https://doi.org/10.1016/j.cub.2021.10.015""
+]"	"False"
+"STRv D2 MSN"	"[
+  {
+    ""labelset"": ""Group"",
+    ""cell_set"": ""STRv D2 MSN"",
+    ""name"": ""nucleus accumbens shell and olfactory tubercle D2 medium spiny neuron"",
+    ""id"": ""CL:4030052""
+  },
+  {
+    ""labelset"": ""Subclass"",
+    ""cell_set"": ""STR D2 MSN"",
+    ""name"": ""indirect pathway medium spiny neuron"",
+    ""id"": ""CL:4023029""
+  },
+  {
+    ""labelset"": ""Class"",
+    ""cell_set"": ""CN LGE GABA"",
+    ""name"": null,
+    ""id"": null
+  },
+  {
+    ""labelset"": ""Neighborhood"",
+    ""cell_set"": ""Subpallium GABA"",
+    ""name"": null,
+    ""id"": null
+  }
+]"	"[
+  {
+    ""labelset"": null,
+    ""cell_set"": null
+  }
+]"	"[
+  ""https://doi.org/10.1016/j.cub.2021.10.015""
+]"	"False"
