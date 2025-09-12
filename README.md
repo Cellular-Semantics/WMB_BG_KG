@@ -8,13 +8,13 @@ Mappings currently only cover WMB:supertype to BG:group.  Others pending.
 
 Above may be out of date, so see `config/collectdata/vfb_fullontologies.txt` to check current ontologies loaded.
 
-To run the pipeline:
+To run the pipeline:  `docker compose up`
 
-`docker compose up`
+To build the annotation transfer file: `make all`  (requires ROBOT)
 
-### Some useful Cypher queries
+## Some useful Cypher queries
 
-Report on CL mappings
+Report on CL mappings + annotation transfers
 
 ```cypher
 MATCH (tax:Individual)-[:annotations]->(cell_set:Cell_cluster)-[:has_labelset]->(ls:Individual) 
