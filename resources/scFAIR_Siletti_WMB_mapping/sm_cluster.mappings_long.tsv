@@ -1,0 +1,883 @@
+r	c	score
+mm_lymphocyte	hs_2	1.0
+hs_2	mm_lymphocyte	1.0
+mm_lymphocyte	hs_0	0.99
+hs_0	mm_lymphocyte	0.99
+hs_1	mm_lymphocyte	0.99
+mm_lymphocyte	hs_1	0.99
+hs_314	mm_Purkinje cell	0.97
+mm_Purkinje cell	hs_314	0.97
+mm_thalamic excitatory neuron	hs_454	0.96
+hs_308	mm_unipolar brush cell	0.96
+mm_glutamatergic neuron	hs_334	0.96
+hs_454	mm_thalamic excitatory neuron	0.96
+hs_334	mm_glutamatergic neuron	0.96
+mm_unipolar brush cell	hs_308	0.96
+hs_458	mm_thalamic excitatory neuron	0.95
+hs_3	mm_dendritic cell	0.95
+mm_thalamic excitatory neuron	hs_458	0.95
+mm_dendritic cell	hs_3	0.95
+hs_235	mm_sst chodl GABAergic cortical interneuron	0.93
+hs_3	mm_border associated macrophage	0.93
+mm_microglial cell	hs_3	0.93
+mm_dentate gyrus of hippocampal formation granule cell	hs_200	0.93
+hs_121	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.93
+mm_border associated macrophage	hs_3	0.93
+mm_sst chodl GABAergic cortical interneuron	hs_235	0.93
+hs_180	mm_hippocampal CA1-3 neuron	0.93
+mm_glutamatergic neuron	hs_364	0.93
+hs_207	mm_indirect pathway medium spiny neuron	0.93
+mm_hippocampal CA1-3 neuron	hs_180	0.93
+mm_indirect pathway medium spiny neuron	hs_207	0.93
+hs_364	mm_glutamatergic neuron	0.93
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_121	0.93
+hs_3	mm_microglial cell	0.93
+hs_200	mm_dentate gyrus of hippocampal formation granule cell	0.93
+mm_L6 corticothalamic-projecting glutamatergic cortical neuron	hs_107	0.92
+hs_452	mm_thalamic excitatory neuron	0.92
+hs_211	mm_direct pathway medium spiny neuron	0.92
+mm_direct pathway medium spiny neuron	hs_211	0.92
+mm_thalamic excitatory neuron	hs_452	0.92
+hs_221	mm_indirect pathway medium spiny neuron	0.92
+hs_107	mm_L6 corticothalamic-projecting glutamatergic cortical neuron	0.92
+mm_indirect pathway medium spiny neuron	hs_221	0.92
+mm_indirect pathway medium spiny neuron	hs_212	0.91
+mm_sst GABAergic cortical interneuron	hs_252	0.91
+mm_indirect pathway medium spiny neuron	hs_216	0.91
+hs_212	mm_indirect pathway medium spiny neuron	0.91
+hs_216	mm_indirect pathway medium spiny neuron	0.91
+hs_252	mm_sst GABAergic cortical interneuron	0.91
+mm_lamp5 GABAergic cortical interneuron	hs_286	0.91
+mm_olfactory granule cell	hs_403	0.91
+hs_403	mm_olfactory granule cell	0.91
+hs_286	mm_lamp5 GABAergic cortical interneuron	0.91
+mm_cerebellar granule cell	hs_311	0.9
+mm_L6 corticothalamic-projecting glutamatergic cortical neuron	hs_109	0.9
+hs_311	mm_cerebellar granule cell	0.9
+hs_109	mm_L6 corticothalamic-projecting glutamatergic cortical neuron	0.9
+mm_glutamatergic neuron	hs_343	0.89
+hs_343	mm_glutamatergic neuron	0.89
+mm_thalamic excitatory neuron	hs_450	0.89
+hs_450	mm_thalamic excitatory neuron	0.89
+hs_204	mm_dentate gyrus of hippocampal formation granule cell	0.89
+mm_dentate gyrus of hippocampal formation granule cell	hs_204	0.89
+hs_209	mm_direct pathway medium spiny neuron	0.88
+mm_direct pathway medium spiny neuron	hs_209	0.88
+mm_cerebellar granule cell	hs_310	0.87
+hs_254	mm_sst GABAergic cortical interneuron	0.87
+mm_near-projecting glutamatergic cortical neuron	hs_86	0.87
+mm_lamp5 GABAergic cortical interneuron	hs_287	0.87
+mm_pvalb GABAergic cortical interneuron	hs_261	0.87
+hs_287	mm_lamp5 GABAergic cortical interneuron	0.87
+mm_sst GABAergic cortical interneuron	hs_254	0.87
+hs_261	mm_pvalb GABAergic cortical interneuron	0.87
+hs_310	mm_cerebellar granule cell	0.87
+hs_86	mm_near-projecting glutamatergic cortical neuron	0.87
+hs_260	mm_pvalb GABAergic cortical interneuron	0.86
+mm_dentate gyrus of hippocampal formation granule cell	hs_199	0.86
+mm_pvalb GABAergic cortical interneuron	hs_260	0.86
+mm_lamp5 GABAergic cortical interneuron	hs_288	0.86
+mm_thalamic excitatory neuron	hs_459	0.86
+mm_cerebellar neuron	hs_303	0.86
+hs_201	mm_dentate gyrus of hippocampal formation granule cell	0.86
+hs_303	mm_cerebellar neuron	0.86
+mm_dentate gyrus of hippocampal formation granule cell	hs_201	0.86
+hs_288	mm_lamp5 GABAergic cortical interneuron	0.86
+hs_199	mm_dentate gyrus of hippocampal formation granule cell	0.86
+hs_459	mm_thalamic excitatory neuron	0.86
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_138	0.85
+hs_138	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.85
+hs_306	mm_cerebellar neuron	0.85
+mm_cerebellar neuron	hs_306	0.85
+mm_dentate gyrus of hippocampal formation granule cell	hs_203	0.85
+hs_203	mm_dentate gyrus of hippocampal formation granule cell	0.85
+hs_451	mm_thalamic excitatory neuron	0.84
+hs_453	mm_thalamic excitatory neuron	0.84
+mm_hippocampal CA1-3 neuron	hs_197	0.84
+mm_thalamic excitatory neuron	hs_451	0.84
+hs_197	mm_hippocampal CA1-3 neuron	0.84
+mm_thalamic excitatory neuron	hs_453	0.84
+hs_368	mm_glutamatergic neuron	0.84
+mm_glutamatergic neuron	hs_368	0.84
+mm_vip GABAergic cortical interneuron	hs_294	0.83
+mm_hippocampal CA1-3 neuron	hs_187	0.83
+hs_294	mm_vip GABAergic cortical interneuron	0.83
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_133	0.83
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_126	0.83
+hs_133	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.83
+hs_126	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.83
+hs_187	mm_hippocampal CA1-3 neuron	0.83
+mm_GABAergic neuron	hs_393	0.82
+mm_thalamic excitatory neuron	hs_460	0.82
+hs_460	mm_thalamic excitatory neuron	0.82
+hs_418	mm_glutamatergic neuron	0.82
+hs_135	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.82
+mm_glutamatergic neuron	hs_418	0.82
+mm_L5 extratelencephalic projecting glutamatergic cortical neuron	hs_117	0.82
+hs_393	mm_GABAergic neuron	0.82
+mm_glutamatergic neuron	hs_119	0.82
+mm_glutamatergic neuron	hs_151	0.82
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_135	0.82
+hs_119	mm_glutamatergic neuron	0.82
+hs_151	mm_glutamatergic neuron	0.82
+hs_117	mm_L5 extratelencephalic projecting glutamatergic cortical neuron	0.82
+hs_332	mm_mammillary body neuron	0.81
+mm_L6 intratelencephalic projecting glutamatergic neuron	hs_148	0.81
+hs_238	mm_medial ganglionic eminence derived GABAergic cortical interneuron	0.81
+mm_medial ganglionic eminence derived GABAergic cortical interneuron	hs_238	0.81
+hs_293	mm_vip GABAergic cortical interneuron	0.81
+hs_120	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.81
+mm_glutamatergic neuron	hs_375	0.81
+hs_250	mm_sst GABAergic cortical interneuron	0.81
+mm_indirect pathway medium spiny neuron	hs_213	0.81
+hs_367	mm_glutamatergic neuron	0.81
+hs_307	mm_cerebellar neuron	0.81
+hs_375	mm_glutamatergic neuron	0.81
+hs_213	mm_indirect pathway medium spiny neuron	0.81
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_120	0.81
+mm_sst GABAergic cortical interneuron	hs_250	0.81
+mm_cerebellar neuron	hs_307	0.81
+hs_148	mm_L6 intratelencephalic projecting glutamatergic neuron	0.81
+mm_mammillary body neuron	hs_332	0.81
+mm_vip GABAergic cortical interneuron	hs_293	0.81
+mm_glutamatergic neuron	hs_367	0.81
+hs_122	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.8
+hs_219	mm_Island of Calleja granule cell	0.8
+hs_208	mm_indirect pathway medium spiny neuron	0.8
+mm_Island of Calleja granule cell	hs_219	0.8
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_122	0.8
+mm_indirect pathway medium spiny neuron	hs_208	0.8
+mm_GABAergic neuron	hs_429	0.79
+hs_249	mm_sst GABAergic cortical interneuron	0.79
+hs_259	mm_pvalb GABAergic cortical interneuron	0.79
+hs_429	mm_GABAergic neuron	0.79
+mm_glutamatergic neuron	hs_320	0.79
+mm_pvalb GABAergic cortical interneuron	hs_259	0.79
+hs_320	mm_glutamatergic neuron	0.79
+hs_110	mm_L6 corticothalamic-projecting glutamatergic cortical neuron	0.79
+mm_L6 corticothalamic-projecting glutamatergic cortical neuron	hs_110	0.79
+mm_sst GABAergic cortical interneuron	hs_249	0.79
+mm_glutamatergic neuron	hs_370	0.78
+hs_150	mm_glutamatergic neuron	0.78
+hs_370	mm_glutamatergic neuron	0.78
+mm_glutamatergic neuron	hs_150	0.78
+hs_395	mm_midbrain dopaminergic neuron	0.78
+mm_midbrain dopaminergic neuron	hs_395	0.78
+mm_glutamatergic neuron	hs_345	0.77
+hs_345	mm_glutamatergic neuron	0.77
+mm_dentate gyrus of hippocampal formation granule cell	hs_205	0.77
+hs_251	mm_sst GABAergic cortical interneuron	0.77
+hs_296	mm_vip GABAergic cortical interneuron	0.77
+mm_sst GABAergic cortical interneuron	hs_251	0.77
+hs_205	mm_dentate gyrus of hippocampal formation granule cell	0.77
+mm_vip GABAergic cortical interneuron	hs_296	0.77
+hs_222	mm_D1/D2-hybrid medium spiny neuron	0.76
+mm_D1/D2-hybrid medium spiny neuron	hs_222	0.76
+mm_pvalb GABAergic cortical interneuron	hs_257	0.76
+hs_257	mm_pvalb GABAergic cortical interneuron	0.76
+hs_438	mm_GABAergic neuron	0.75
+hs_355	mm_GABAergic neuron	0.75
+hs_92	mm_near-projecting glutamatergic cortical neuron	0.75
+mm_GABAergic neuron	hs_438	0.75
+mm_pvalb GABAergic cortical interneuron	hs_258	0.75
+mm_GABAergic neuron	hs_355	0.75
+hs_214	mm_direct pathway medium spiny neuron	0.75
+mm_near-projecting glutamatergic cortical neuron	hs_92	0.75
+mm_sncg GABAergic cortical interneuron	hs_279	0.75
+hs_258	mm_pvalb GABAergic cortical interneuron	0.75
+mm_direct pathway medium spiny neuron	hs_214	0.75
+hs_279	mm_sncg GABAergic cortical interneuron	0.75
+hs_434	mm_GABAergic neuron	0.74
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_134	0.74
+mm_glutamatergic neuron	hs_431	0.74
+hs_134	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.74
+hs_431	mm_glutamatergic neuron	0.74
+mm_GABAergic neuron	hs_434	0.74
+hs_410	mm_glutamatergic neuron	0.74
+mm_mammillary body neuron	hs_330	0.74
+mm_glutamatergic neuron	hs_410	0.74
+hs_330	mm_mammillary body neuron	0.74
+hs_449	mm_thalamic excitatory neuron	0.73
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_124	0.73
+mm_vip GABAergic cortical interneuron	hs_295	0.73
+mm_thalamic excitatory neuron	hs_449	0.73
+mm_L6 corticothalamic-projecting glutamatergic cortical neuron	hs_108	0.73
+hs_124	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.73
+hs_295	mm_vip GABAergic cortical interneuron	0.73
+mm_pvalb GABAergic cortical interneuron	hs_263	0.73
+hs_263	mm_pvalb GABAergic cortical interneuron	0.73
+hs_108	mm_L6 corticothalamic-projecting glutamatergic cortical neuron	0.73
+hs_363	mm_glutamatergic neuron	0.72
+hs_417	mm_GABAergic neuron	0.72
+hs_98	mm_L6b glutamatergic cortical neuron	0.72
+hs_284	mm_vip GABAergic cortical interneuron	0.72
+mm_L6b glutamatergic cortical neuron	hs_98	0.72
+hs_285	mm_vip GABAergic cortical interneuron	0.72
+mm_medium spiny neuron	hs_232	0.72
+mm_vip GABAergic cortical interneuron	hs_284	0.72
+mm_GABAergic neuron	hs_430	0.72
+hs_232	mm_medium spiny neuron	0.72
+mm_glutamatergic neuron	hs_363	0.72
+mm_vip GABAergic cortical interneuron	hs_285	0.72
+hs_430	mm_GABAergic neuron	0.72
+mm_GABAergic neuron	hs_417	0.72
+hs_253	mm_sst GABAergic cortical interneuron	0.72
+mm_sst GABAergic cortical interneuron	hs_253	0.72
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_125	0.71
+mm_direct pathway medium spiny neuron	hs_210	0.71
+hs_174	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.71
+hs_210	mm_direct pathway medium spiny neuron	0.71
+hs_224	mm_D1/D2-hybrid medium spiny neuron	0.71
+hs_125	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.71
+mm_medium spiny neuron	hs_230	0.71
+mm_D1/D2-hybrid medium spiny neuron	hs_224	0.71
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_174	0.71
+hs_230	mm_medium spiny neuron	0.71
+mm_near-projecting glutamatergic cortical neuron	hs_89	0.7
+hs_89	mm_near-projecting glutamatergic cortical neuron	0.7
+mm_GABAergic neuron	hs_435	0.7
+hs_435	mm_GABAergic neuron	0.7
+hs_248	mm_sst GABAergic cortical interneuron	0.69
+mm_monocyte	hs_3	0.69
+hs_384	mm_glutamatergic neuron	0.69
+hs_3	mm_monocyte	0.69
+mm_medium spiny neuron	hs_234	0.69
+mm_glutamatergic neuron	hs_369	0.69
+mm_sst GABAergic cortical interneuron	hs_248	0.69
+mm_glutamatergic neuron	hs_373	0.69
+hs_123	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.69
+hs_373	mm_glutamatergic neuron	0.69
+hs_234	mm_medium spiny neuron	0.69
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_123	0.69
+hs_369	mm_glutamatergic neuron	0.69
+mm_glutamatergic neuron	hs_384	0.69
+mm_GABAergic neuron	hs_359	0.68
+hs_439	mm_GABAergic neuron	0.68
+mm_mammillary body neuron	hs_326	0.68
+hs_182	mm_hippocampal CA1-3 neuron	0.68
+mm_GABAergic neuron	hs_439	0.68
+hs_441	mm_GABAergic neuron	0.68
+mm_GABAergic neuron	hs_441	0.68
+mm_GABAergic neuron	hs_357	0.68
+mm_chandelier pvalb GABAergic cortical interneuron	hs_265	0.68
+hs_228	mm_medium spiny neuron	0.68
+hs_359	mm_GABAergic neuron	0.68
+mm_medium spiny neuron	hs_228	0.68
+hs_265	mm_chandelier pvalb GABAergic cortical interneuron	0.68
+hs_357	mm_GABAergic neuron	0.68
+mm_hippocampal CA1-3 neuron	hs_182	0.68
+hs_326	mm_mammillary body neuron	0.68
+mm_pvalb GABAergic cortical interneuron	hs_236	0.67
+hs_195	mm_hippocampal CA1-3 neuron	0.67
+mm_GABAergic neuron	hs_358	0.67
+mm_glutamatergic neuron	hs_366	0.67
+hs_358	mm_GABAergic neuron	0.67
+hs_292	mm_vip GABAergic cortical interneuron	0.67
+hs_436	mm_GABAergic neuron	0.67
+mm_hippocampal CA1-3 neuron	hs_179	0.67
+mm_near-projecting glutamatergic cortical neuron	hs_94	0.67
+hs_215	mm_direct pathway medium spiny neuron	0.67
+hs_366	mm_glutamatergic neuron	0.67
+mm_GABAergic neuron	hs_436	0.67
+mm_vip GABAergic cortical interneuron	hs_292	0.67
+hs_236	mm_pvalb GABAergic cortical interneuron	0.67
+hs_94	mm_near-projecting glutamatergic cortical neuron	0.67
+mm_hippocampal CA1-3 neuron	hs_195	0.67
+mm_direct pathway medium spiny neuron	hs_215	0.67
+hs_179	mm_hippocampal CA1-3 neuron	0.67
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_172	0.66
+hs_149	mm_L6 intratelencephalic projecting glutamatergic neuron	0.66
+mm_thalamic excitatory neuron	hs_447	0.66
+hs_447	mm_thalamic excitatory neuron	0.66
+hs_172	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.66
+mm_L6 intratelencephalic projecting glutamatergic neuron	hs_149	0.66
+hs_324	mm_mammillary body neuron	0.65
+hs_262	mm_pvalb GABAergic cortical interneuron	0.65
+hs_421	mm_GABAergic neuron	0.65
+mm_GABAergic neuron	hs_421	0.65
+hs_168	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.65
+hs_281	mm_sncg GABAergic cortical interneuron	0.65
+mm_mammillary body neuron	hs_324	0.65
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_168	0.65
+mm_L5 extratelencephalic projecting glutamatergic cortical neuron	hs_114	0.65
+mm_glutamatergic neuron	hs_152	0.65
+mm_sncg GABAergic cortical interneuron	hs_281	0.65
+hs_114	mm_L5 extratelencephalic projecting glutamatergic cortical neuron	0.65
+mm_pvalb GABAergic cortical interneuron	hs_262	0.65
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_131	0.65
+hs_152	mm_glutamatergic neuron	0.65
+hs_131	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.65
+hs_383	mm_glutamatergic neuron	0.64
+mm_glutamatergic neuron	hs_383	0.64
+mm_thalamic excitatory neuron	hs_448	0.63
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_175	0.63
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_177	0.63
+mm_near-projecting glutamatergic cortical neuron	hs_93	0.63
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_166	0.63
+hs_175	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.63
+hs_166	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.63
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_406	0.63
+hs_448	mm_thalamic excitatory neuron	0.63
+hs_406	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.63
+hs_93	mm_near-projecting glutamatergic cortical neuron	0.63
+hs_177	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.63
+mm_GABAergic neuron	hs_424	0.62
+mm_L6b glutamatergic cortical neuron	hs_101	0.62
+mm_hippocampal CA1-3 neuron	hs_184	0.62
+mm_hippocampal CA1-3 neuron	hs_181	0.62
+mm_L6b glutamatergic cortical neuron	hs_112	0.62
+mm_GABAergic neuron	hs_422	0.62
+mm_D1/D2-hybrid medium spiny neuron	hs_223	0.62
+mm_L6b glutamatergic cortical neuron	hs_99	0.62
+hs_422	mm_GABAergic neuron	0.62
+hs_184	mm_hippocampal CA1-3 neuron	0.62
+hs_223	mm_D1/D2-hybrid medium spiny neuron	0.62
+hs_424	mm_GABAergic neuron	0.62
+hs_181	mm_hippocampal CA1-3 neuron	0.62
+hs_99	mm_L6b glutamatergic cortical neuron	0.62
+hs_112	mm_L6b glutamatergic cortical neuron	0.62
+hs_101	mm_L6b glutamatergic cortical neuron	0.62
+mm_GABAergic neuron	hs_425	0.61
+mm_near-projecting glutamatergic cortical neuron	hs_85	0.61
+mm_cerebellar Golgi cell	hs_302	0.61
+mm_sst GABAergic cortical interneuron	hs_244	0.61
+hs_425	mm_GABAergic neuron	0.61
+hs_297	mm_pinealocyte	0.61
+hs_302	mm_cerebellar Golgi cell	0.61
+mm_pinealocyte	hs_297	0.61
+hs_244	mm_sst GABAergic cortical interneuron	0.61
+hs_85	mm_near-projecting glutamatergic cortical neuron	0.61
+hs_255	mm_pvalb GABAergic cortical interneuron	0.6
+mm_L6 corticothalamic-projecting glutamatergic cortical neuron	hs_111	0.6
+mm_pvalb GABAergic cortical interneuron	hs_255	0.6
+mm_GABAergic neuron	hs_443	0.6
+hs_111	mm_L6 corticothalamic-projecting glutamatergic cortical neuron	0.6
+hs_443	mm_GABAergic neuron	0.6
+mm_GABAergic neuron	hs_416	0.59
+hs_427	mm_GABAergic neuron	0.59
+mm_GABAergic neuron	hs_427	0.59
+mm_GABAergic neuron	hs_442	0.59
+hs_428	mm_GABAergic neuron	0.59
+hs_442	mm_GABAergic neuron	0.59
+mm_neuron	hs_348	0.59
+mm_near-projecting glutamatergic cortical neuron	hs_88	0.59
+mm_GABAergic neuron	hs_428	0.59
+mm_GABAergic neuron	hs_360	0.59
+hs_88	mm_near-projecting glutamatergic cortical neuron	0.59
+hs_366	mm_oligodendrocyte	0.59
+mm_oligodendrocyte	hs_366	0.59
+hs_416	mm_GABAergic neuron	0.59
+hs_348	mm_neuron	0.59
+mm_glutamatergic neuron	hs_385	0.59
+hs_360	mm_GABAergic neuron	0.59
+hs_385	mm_glutamatergic neuron	0.59
+hs_397	mm_neuron	0.58
+hs_186	mm_hippocampal CA1-3 neuron	0.58
+hs_304	mm_cerebellar neuron	0.58
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_164	0.58
+mm_neuron	hs_397	0.58
+hs_446	mm_thalamic excitatory neuron	0.58
+hs_164	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.58
+hs_344	mm_glutamatergic neuron	0.58
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_132	0.58
+hs_245	mm_sst GABAergic cortical interneuron	0.58
+mm_cerebellar neuron	hs_304	0.58
+mm_glutamatergic neuron	hs_420	0.58
+mm_hippocampal CA1-3 neuron	hs_186	0.58
+hs_433	mm_GABAergic neuron	0.58
+hs_132	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.58
+mm_GABAergic neuron	hs_433	0.58
+hs_420	mm_glutamatergic neuron	0.58
+mm_sst GABAergic cortical interneuron	hs_245	0.58
+mm_glutamatergic neuron	hs_344	0.58
+mm_thalamic excitatory neuron	hs_446	0.58
+hs_191	mm_hippocampal CA1-3 neuron	0.57
+hs_394	mm_glutamatergic neuron	0.57
+mm_glutamatergic neuron	hs_394	0.57
+hs_161	mm_amygdala excitatory neuron	0.57
+hs_243	mm_sst GABAergic cortical interneuron	0.57
+mm_hippocampal CA1-3 neuron	hs_191	0.57
+hs_256	mm_pvalb GABAergic cortical interneuron	0.57
+mm_pvalb GABAergic cortical interneuron	hs_256	0.57
+mm_amygdala excitatory neuron	hs_161	0.57
+mm_sst GABAergic cortical interneuron	hs_243	0.57
+mm_L6 corticothalamic-projecting glutamatergic cortical neuron	hs_100	0.56
+mm_glutamatergic neuron	hs_377	0.56
+hs_100	mm_L6 corticothalamic-projecting glutamatergic cortical neuron	0.56
+mm_indirect pathway medium spiny neuron	hs_217	0.56
+hs_274	mm_lamp5 GABAergic cortical interneuron	0.56
+mm_lamp5 GABAergic cortical interneuron	hs_274	0.56
+mm_intratelencephalic-projecting glutamatergic cortical neuron	hs_405	0.56
+hs_374	mm_glutamatergic neuron	0.56
+hs_405	mm_intratelencephalic-projecting glutamatergic cortical neuron	0.56
+hs_377	mm_glutamatergic neuron	0.56
+hs_217	mm_indirect pathway medium spiny neuron	0.56
+mm_glutamatergic neuron	hs_374	0.56
+hs_96	mm_near-projecting glutamatergic cortical neuron	0.55
+hs_414	mm_glutamatergic neuron	0.55
+mm_near-projecting glutamatergic cortical neuron	hs_95	0.55
+mm_sst GABAergic cortical interneuron	hs_246	0.55
+hs_440	mm_GABAergic neuron	0.55
+hs_106	mm_L6 corticothalamic-projecting glutamatergic cortical neuron	0.55
+mm_glutamatergic neuron	hs_414	0.55
+mm_L5 extratelencephalic projecting glutamatergic cortical neuron	hs_116	0.55
+hs_246	mm_sst GABAergic cortical interneuron	0.55
+hs_116	mm_L5 extratelencephalic projecting glutamatergic cortical neuron	0.55
+hs_95	mm_near-projecting glutamatergic cortical neuron	0.55
+mm_L6 corticothalamic-projecting glutamatergic cortical neuron	hs_106	0.55
+mm_GABAergic neuron	hs_440	0.55
+mm_near-projecting glutamatergic cortical neuron	hs_96	0.55
+mm_GABAergic neuron	hs_390	0.54
+mm_hippocampal CA1-3 neuron	hs_196	0.54
+hs_390	mm_GABAergic neuron	0.54
+hs_84	mm_near-projecting glutamatergic cortical neuron	0.54
+hs_242	mm_sst GABAergic cortical interneuron	0.54
+mm_near-projecting glutamatergic cortical neuron	hs_84	0.54
+mm_sst GABAergic cortical interneuron	hs_242	0.54
+hs_196	mm_hippocampal CA1-3 neuron	0.54
+hs_141	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.53
+mm_GABAergic neuron	hs_362	0.53
+hs_398	mm_glutamatergic neuron	0.53
+hs_362	mm_GABAergic neuron	0.53
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_141	0.53
+mm_glutamatergic neuron	hs_398	0.53
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_128	0.52
+mm_near-projecting glutamatergic cortical neuron	hs_87	0.52
+mm_GABAergic neuron	hs_356	0.52
+hs_128	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.52
+hs_289	mm_vip GABAergic cortical interneuron	0.52
+hs_437	mm_GABAergic neuron	0.52
+hs_87	mm_near-projecting glutamatergic cortical neuron	0.52
+mm_vip GABAergic cortical interneuron	hs_289	0.52
+hs_356	mm_GABAergic neuron	0.52
+mm_GABAergic neuron	hs_437	0.52
+hs_371	mm_glutamatergic neuron	0.52
+mm_glutamatergic neuron	hs_371	0.52
+hs_231	mm_medium spiny neuron	0.51
+mm_neuron	hs_347	0.51
+hs_218	mm_direct pathway medium spiny neuron	0.51
+hs_233	mm_medium spiny neuron	0.51
+mm_medium spiny neuron	hs_231	0.51
+mm_medium spiny neuron	hs_233	0.51
+hs_387	mm_glutamatergic neuron	0.51
+mm_amygdala excitatory neuron	hs_419	0.51
+mm_direct pathway medium spiny neuron	hs_218	0.51
+mm_glutamatergic neuron	hs_387	0.51
+hs_419	mm_amygdala excitatory neuron	0.51
+hs_347	mm_neuron	0.51
+mm_amygdala excitatory neuron	hs_159	0.5
+hs_189	mm_hippocampal CA1-3 neuron	0.5
+mm_hippocampal CA1-3 neuron	hs_189	0.5
+hs_399	mm_glutamatergic neuron	0.5
+hs_401	mm_olfactory granule cell	0.5
+hs_275	mm_lamp5 GABAergic cortical interneuron	0.5
+mm_sst GABAergic cortical interneuron	hs_241	0.5
+mm_glutamatergic neuron	hs_399	0.5
+hs_159	mm_amygdala excitatory neuron	0.5
+hs_241	mm_sst GABAergic cortical interneuron	0.5
+mm_lamp5 GABAergic cortical interneuron	hs_275	0.5
+mm_olfactory granule cell	hs_401	0.5
+hs_325	mm_mammillary body neuron	0.49
+mm_mammillary body neuron	hs_325	0.49
+mm_mammillary body neuron	hs_323	0.49
+mm_near-projecting glutamatergic cortical neuron	hs_91	0.49
+hs_91	mm_near-projecting glutamatergic cortical neuron	0.49
+hs_266	mm_chandelier pvalb GABAergic cortical interneuron	0.49
+hs_323	mm_mammillary body neuron	0.49
+mm_vip GABAergic cortical interneuron	hs_290	0.49
+hs_290	mm_vip GABAergic cortical interneuron	0.49
+mm_chandelier pvalb GABAergic cortical interneuron	hs_266	0.49
+hs_104	mm_L6b glutamatergic cortical neuron	0.48
+hs_147	mm_L6 intratelencephalic projecting glutamatergic neuron	0.48
+hs_90	mm_near-projecting glutamatergic cortical neuron	0.48
+hs_316	mm_glutamatergic neuron	0.48
+hs_83	mm_near-projecting glutamatergic cortical neuron	0.48
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_129	0.48
+mm_L6 intratelencephalic projecting glutamatergic neuron	hs_147	0.48
+mm_near-projecting glutamatergic cortical neuron	hs_83	0.48
+mm_glutamatergic neuron	hs_316	0.48
+mm_near-projecting glutamatergic cortical neuron	hs_90	0.48
+mm_L6b glutamatergic cortical neuron	hs_104	0.48
+hs_129	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.48
+hs_268	mm_Lamp5 Lhx6 neuron	0.47
+mm_neuron	hs_350	0.47
+hs_279	mm_caudal ganglionic eminence derived interneuron	0.47
+mm_caudal ganglionic eminence derived interneuron	hs_279	0.47
+mm_Lamp5 Lhx6 neuron	hs_268	0.47
+hs_139	mm_L5 intratelencephalic projecting glutamatergic neuron	0.47
+hs_423	mm_GABAergic neuron	0.47
+mm_L5 intratelencephalic projecting glutamatergic neuron	hs_139	0.47
+hs_350	mm_neuron	0.47
+mm_GABAergic neuron	hs_423	0.47
+hs_361	mm_GABAergic neuron	0.46
+mm_hippocampal CA1-3 neuron	hs_183	0.46
+hs_183	mm_hippocampal CA1-3 neuron	0.46
+mm_GABAergic neuron	hs_361	0.46
+mm_GABAergic neuron	hs_354	0.46
+hs_354	mm_GABAergic neuron	0.46
+hs_239	mm_sst GABAergic cortical interneuron	0.45
+hs_269	mm_Lamp5 Lhx6 neuron	0.45
+hs_415	mm_choroid plexus epithelial cell	0.45
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_169	0.45
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_176	0.45
+hs_176	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.45
+mm_sst GABAergic cortical interneuron	hs_239	0.45
+hs_103	mm_L6b glutamatergic cortical neuron	0.45
+mm_L6b glutamatergic cortical neuron	hs_103	0.45
+mm_Lamp5 Lhx6 neuron	hs_269	0.45
+hs_381	mm_GABAergic neuron	0.45
+mm_GABAergic neuron	hs_381	0.45
+mm_D1/D2-hybrid medium spiny neuron	hs_226	0.45
+hs_169	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.45
+hs_226	mm_D1/D2-hybrid medium spiny neuron	0.45
+mm_choroid plexus epithelial cell	hs_415	0.45
+hs_229	mm_medium spiny neuron	0.45
+mm_medium spiny neuron	hs_229	0.45
+mm_sncg GABAergic cortical interneuron	hs_280	0.44
+hs_280	mm_sncg GABAergic cortical interneuron	0.44
+hs_413	mm_glutamatergic neuron	0.44
+mm_glutamatergic neuron	hs_413	0.44
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_167	0.43
+hs_167	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.43
+mm_amygdala excitatory neuron	hs_162	0.43
+hs_162	mm_amygdala excitatory neuron	0.43
+mm_glutamatergic neuron	hs_341	0.42
+hs_341	mm_glutamatergic neuron	0.42
+hs_392	mm_medial ganglionic eminence derived GABAergic cortical interneuron	0.42
+mm_medial ganglionic eminence derived GABAergic cortical interneuron	hs_392	0.42
+mm_neuron	hs_432	0.41
+hs_300	mm_cerebellar neuron	0.41
+mm_glutamatergic neuron	hs_372	0.41
+hs_432	mm_neuron	0.41
+hs_372	mm_glutamatergic neuron	0.41
+mm_cerebellar neuron	hs_300	0.41
+mm_neuron	hs_365	0.4
+mm_L6b glutamatergic cortical neuron	hs_102	0.4
+mm_mammillary body neuron	hs_327	0.4
+hs_165	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.4
+hs_327	mm_mammillary body neuron	0.4
+hs_102	mm_L6b glutamatergic cortical neuron	0.4
+hs_365	mm_neuron	0.4
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_165	0.4
+mm_hippocampal CA1-3 neuron	hs_192	0.39
+mm_cholinergic neuron	hs_400	0.39
+hs_192	mm_hippocampal CA1-3 neuron	0.39
+hs_333	mm_mammillary body neuron	0.39
+hs_142	mm_L5 intratelencephalic projecting glutamatergic neuron	0.39
+mm_glutamatergic neuron	hs_382	0.39
+hs_144	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.39
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_144	0.39
+mm_L5 intratelencephalic projecting glutamatergic neuron	hs_142	0.39
+mm_glutamatergic neuron	hs_411	0.39
+mm_GABAergic neuron	hs_412	0.39
+hs_411	mm_glutamatergic neuron	0.39
+hs_127	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.39
+mm_GABAergic neuron	hs_389	0.39
+mm_sst GABAergic cortical interneuron	hs_247	0.39
+hs_389	mm_GABAergic neuron	0.39
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_130	0.39
+hs_247	mm_sst GABAergic cortical interneuron	0.39
+hs_400	mm_cholinergic neuron	0.39
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_127	0.39
+hs_130	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.39
+hs_412	mm_GABAergic neuron	0.39
+mm_mammillary body neuron	hs_333	0.39
+hs_382	mm_glutamatergic neuron	0.39
+mm_Cajal-Retzius cell	hs_313	0.38
+hs_278	mm_lamp5 GABAergic cortical interneuron	0.38
+hs_140	mm_L5 intratelencephalic projecting glutamatergic neuron	0.38
+mm_vip GABAergic cortical interneuron	hs_291	0.38
+mm_lamp5 GABAergic cortical interneuron	hs_278	0.38
+mm_L5 intratelencephalic projecting glutamatergic neuron	hs_140	0.38
+hs_313	mm_Cajal-Retzius cell	0.38
+hs_291	mm_vip GABAergic cortical interneuron	0.38
+hs_318	mm_glutamatergic neuron	0.37
+mm_glutamatergic neuron	hs_318	0.37
+mm_hippocampal CA1-3 neuron	hs_185	0.37
+hs_340	mm_glutamatergic neuron	0.37
+mm_glutamatergic neuron	hs_319	0.37
+hs_376	mm_glutamatergic neuron	0.37
+mm_glutamatergic neuron	hs_376	0.37
+hs_319	mm_glutamatergic neuron	0.37
+mm_glutamatergic neuron	hs_340	0.37
+hs_329	mm_mammillary body neuron	0.37
+hs_457	mm_thalamic excitatory neuron	0.37
+mm_mammillary body neuron	hs_329	0.37
+mm_thalamic excitatory neuron	hs_457	0.37
+hs_185	mm_hippocampal CA1-3 neuron	0.37
+hs_407	mm_amygdala excitatory neuron	0.36
+hs_317	mm_glutamatergic neuron	0.36
+mm_glutamatergic neuron	hs_317	0.36
+hs_353	mm_GABAergic neuron	0.36
+mm_GABAergic neuron	hs_353	0.36
+mm_amygdala excitatory neuron	hs_407	0.36
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_129	0.35
+hs_352	mm_GABAergic neuron	0.35
+mm_Lamp5 Lhx6 neuron	hs_267	0.35
+hs_349	mm_neuron	0.35
+hs_129	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.35
+mm_GABAergic neuron	hs_352	0.35
+hs_365	mm_glutamatergic neuron	0.35
+hs_267	mm_Lamp5 Lhx6 neuron	0.35
+mm_glutamatergic neuron	hs_365	0.35
+mm_neuron	hs_349	0.35
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_170	0.34
+hs_155	mm_amygdala excitatory neuron	0.34
+hs_455	mm_thalamic excitatory neuron	0.34
+hs_154	mm_amygdala excitatory neuron	0.34
+mm_chandelier pvalb GABAergic cortical interneuron	hs_264	0.34
+mm_thalamic excitatory neuron	hs_455	0.34
+hs_170	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.34
+hs_220	mm_direct pathway medium spiny neuron	0.34
+mm_amygdala excitatory neuron	hs_155	0.34
+mm_amygdala excitatory neuron	hs_154	0.34
+hs_264	mm_chandelier pvalb GABAergic cortical interneuron	0.34
+mm_L5 intratelencephalic projecting glutamatergic neuron	hs_144	0.34
+hs_144	mm_L5 intratelencephalic projecting glutamatergic neuron	0.34
+mm_L6b glutamatergic cortical neuron	hs_105	0.34
+hs_105	mm_L6b glutamatergic cortical neuron	0.34
+mm_direct pathway medium spiny neuron	hs_220	0.34
+hs_143	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.33
+mm_cerebellar granule cell	hs_309	0.33
+mm_GABAergic neuron	hs_444	0.33
+hs_415	mm_gonadotropin releasing neuron	0.33
+hs_444	mm_GABAergic neuron	0.33
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_143	0.33
+hs_309	mm_cerebellar granule cell	0.33
+mm_gonadotropin releasing neuron	hs_415	0.33
+mm_GABAergic neuron	hs_415	0.32
+hs_415	mm_GABAergic neuron	0.32
+hs_456	mm_thalamic excitatory neuron	0.32
+hs_178	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.32
+hs_396	mm_glutamatergic neuron	0.32
+hs_346	mm_glutamatergic neuron	0.32
+mm_glutamatergic neuron	hs_396	0.32
+hs_97	mm_near-projecting glutamatergic cortical neuron	0.32
+mm_near-projecting glutamatergic cortical neuron	hs_97	0.32
+mm_amygdala excitatory neuron	hs_160	0.32
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_173	0.32
+mm_thalamic excitatory neuron	hs_456	0.32
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_178	0.32
+mm_glutamatergic neuron	hs_346	0.32
+hs_173	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.32
+hs_160	mm_amygdala excitatory neuron	0.32
+mm_hippocampal CA1-3 neuron	hs_193	0.31
+hs_240	mm_pvalb GABAergic cortical interneuron	0.31
+hs_193	mm_hippocampal CA1-3 neuron	0.31
+hs_321	mm_glutamatergic neuron	0.31
+mm_glutamatergic neuron	hs_388	0.31
+hs_388	mm_glutamatergic neuron	0.31
+mm_pvalb GABAergic cortical interneuron	hs_240	0.31
+mm_glutamatergic neuron	hs_321	0.31
+mm_hippocampal CA1-3 neuron	hs_194	0.3
+mm_glutamatergic neuron	hs_336	0.3
+mm_cerebellar granule cell	hs_312	0.3
+hs_167	mm_L2 intratelencephalic projecting glutamatergic neuron	0.3
+mm_amygdala excitatory neuron	hs_163	0.3
+hs_153	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.3
+hs_158	mm_amygdala excitatory neuron	0.3
+hs_194	mm_hippocampal CA1-3 neuron	0.3
+mm_amygdala excitatory neuron	hs_158	0.3
+hs_163	mm_amygdala excitatory neuron	0.3
+hs_312	mm_cerebellar granule cell	0.3
+mm_L2 intratelencephalic projecting glutamatergic neuron	hs_167	0.3
+hs_336	mm_glutamatergic neuron	0.3
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_153	0.3
+hs_113	mm_L5 extratelencephalic projecting glutamatergic cortical neuron	0.29
+mm_cerebellar inhibitory GABAergic interneuron	hs_300	0.29
+hs_415	mm_glutamatergic neuron	0.29
+mm_glutamatergic neuron	hs_415	0.29
+mm_L5 extratelencephalic projecting glutamatergic cortical neuron	hs_113	0.29
+hs_300	mm_cerebellar inhibitory GABAergic interneuron	0.29
+hs_136	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.28
+mm_mammillary body neuron	hs_328	0.28
+mm_GABAergic neuron	hs_365	0.28
+hs_365	mm_GABAergic neuron	0.28
+hs_239	mm_pvalb GABAergic cortical interneuron	0.28
+mm_lamp5 GABAergic cortical interneuron	hs_283	0.28
+hs_198	mm_hippocampal CA1-3 neuron	0.28
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_136	0.28
+mm_pvalb GABAergic cortical interneuron	hs_239	0.28
+hs_283	mm_lamp5 GABAergic cortical interneuron	0.28
+mm_hippocampal CA1-3 neuron	hs_198	0.28
+hs_328	mm_mammillary body neuron	0.28
+hs_130	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.27
+hs_299	mm_cerebellar inhibitory GABAergic interneuron	0.27
+mm_cerebellar inhibitory GABAergic interneuron	hs_299	0.27
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_171	0.27
+hs_171	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.27
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_130	0.27
+mm_Lamp5 Lhx6 neuron	hs_271	0.26
+hs_156	mm_amygdala excitatory neuron	0.26
+hs_271	mm_Lamp5 Lhx6 neuron	0.26
+mm_GABAergic neuron	hs_426	0.26
+mm_dentate gyrus of hippocampal formation granule cell	hs_202	0.26
+mm_amygdala excitatory neuron	hs_156	0.26
+hs_202	mm_dentate gyrus of hippocampal formation granule cell	0.26
+hs_426	mm_GABAergic neuron	0.26
+mm_thalamic excitatory neuron	hs_372	0.25
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_157	0.25
+hs_157	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.25
+hs_392	mm_GABAergic neuron	0.25
+mm_GABAergic neuron	hs_392	0.25
+hs_372	mm_thalamic excitatory neuron	0.25
+hs_273	mm_lamp5 GABAergic cortical interneuron	0.24
+mm_L6 intratelencephalic projecting glutamatergic neuron	hs_146	0.24
+mm_lamp5 GABAergic cortical interneuron	hs_273	0.24
+hs_272	mm_lamp5 GABAergic cortical interneuron	0.24
+mm_L5 intratelencephalic projecting glutamatergic neuron	hs_137	0.24
+mm_lamp5 GABAergic cortical interneuron	hs_272	0.24
+hs_137	mm_L5 intratelencephalic projecting glutamatergic neuron	0.24
+hs_146	mm_L6 intratelencephalic projecting glutamatergic neuron	0.24
+hs_137	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.23
+hs_311	mm_pinealocyte	0.23
+mm_pinealocyte	hs_311	0.23
+mm_neuron	hs_380	0.23
+hs_337	mm_GABAergic neuron	0.23
+hs_380	mm_neuron	0.23
+mm_GABAergic neuron	hs_337	0.23
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_137	0.23
+mm_L5 intratelencephalic projecting glutamatergic neuron	hs_149	0.22
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_140	0.22
+hs_351	mm_GABAergic neuron	0.22
+hs_149	mm_L5 intratelencephalic projecting glutamatergic neuron	0.22
+hs_427	mm_nucleus accumbens shell and olfactory tubercle D1 medium spiny neuron	0.22
+mm_GABAergic neuron	hs_351	0.22
+hs_140	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.22
+mm_nucleus accumbens shell and olfactory tubercle D1 medium spiny neuron	hs_427	0.22
+hs_411	mm_GABAergic neuron	0.21
+mm_direct pathway medium spiny neuron	hs_219	0.21
+hs_270	mm_Lamp5 Lhx6 neuron	0.21
+mm_GABAergic neuron	hs_411	0.21
+hs_219	mm_direct pathway medium spiny neuron	0.21
+mm_Lamp5 Lhx6 neuron	hs_270	0.21
+hs_127	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.2
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_127	0.2
+hs_270	mm_lamp5 GABAergic cortical interneuron	0.2
+mm_D1/D2-hybrid medium spiny neuron	hs_225	0.2
+hs_339	mm_glutamatergic neuron	0.2
+hs_391	mm_GABAergic neuron	0.2
+hs_356	mm_raphe nuclei neuron	0.2
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_155	0.2
+mm_Lamp5 Lhx6 neuron	hs_273	0.2
+hs_429	mm_choroid plexus epithelial cell	0.2
+mm_GABAergic neuron	hs_391	0.2
+mm_raphe nuclei neuron	hs_356	0.2
+hs_365	mm_cerebellum glutamatergic neuron	0.2
+hs_155	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.2
+mm_glutamatergic neuron	hs_339	0.2
+mm_lamp5 GABAergic cortical interneuron	hs_270	0.2
+mm_cerebellum glutamatergic neuron	hs_365	0.2
+hs_225	mm_D1/D2-hybrid medium spiny neuron	0.2
+mm_choroid plexus epithelial cell	hs_429	0.2
+hs_273	mm_Lamp5 Lhx6 neuron	0.2
+hs_305	mm_cerebellar neuron	0.19
+mm_glutamatergic neuron	hs_338	0.19
+hs_338	mm_glutamatergic neuron	0.19
+mm_cerebellar neuron	hs_305	0.19
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_128	0.18
+hs_322	mm_glutamatergic neuron	0.18
+mm_astrocyte	hs_366	0.18
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_161	0.18
+hs_128	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.18
+hs_276	mm_caudal ganglionic eminence derived interneuron	0.18
+hs_366	mm_astrocyte	0.18
+hs_282	mm_lamp5 GABAergic cortical interneuron	0.18
+mm_caudal ganglionic eminence derived interneuron	hs_276	0.18
+mm_lamp5 GABAergic cortical interneuron	hs_282	0.18
+mm_glutamatergic neuron	hs_322	0.18
+hs_161	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.18
+mm_intratelencephalic-projecting glutamatergic cortical neuron	hs_406	0.17
+hs_415	mm_tanycyte	0.17
+mm_glutamatergic neuron	hs_412	0.17
+hs_276	mm_sncg GABAergic cortical interneuron	0.17
+hs_406	mm_intratelencephalic-projecting glutamatergic cortical neuron	0.17
+mm_tanycyte	hs_415	0.17
+hs_412	mm_glutamatergic neuron	0.17
+hs_401	mm_dentate gyrus of hippocampal formation granule cell	0.17
+hs_378	mm_glutamatergic neuron	0.17
+mm_dentate gyrus of hippocampal formation granule cell	hs_401	0.17
+mm_sncg GABAergic cortical interneuron	hs_276	0.17
+mm_lamp5 GABAergic cortical interneuron	hs_271	0.17
+hs_226	mm_medium spiny neuron	0.17
+mm_medium spiny neuron	hs_226	0.17
+mm_glutamatergic neuron	hs_378	0.17
+hs_271	mm_lamp5 GABAergic cortical interneuron	0.17
+hs_157	mm_amygdala excitatory neuron	0.16
+mm_amygdala excitatory neuron	hs_157	0.16
+hs_145	mm_L6 intratelencephalic projecting glutamatergic neuron	0.16
+hs_282	mm_sncg GABAergic cortical interneuron	0.16
+hs_112	mm_L6 corticothalamic-projecting glutamatergic cortical neuron	0.16
+mm_L6 intratelencephalic projecting glutamatergic neuron	hs_145	0.16
+mm_L6 corticothalamic-projecting glutamatergic cortical neuron	hs_112	0.16
+mm_sncg GABAergic cortical interneuron	hs_282	0.16
+mm_L2/3 intratelencephalic projecting glutamatergic neuron	hs_158	0.15
+hs_158	mm_L2/3 intratelencephalic projecting glutamatergic neuron	0.15
+hs_331	mm_mammillary body neuron	0.14
+mm_Bergmann glial cell	hs_308	0.14
+hs_445	mm_thalamic excitatory neuron	0.14
+hs_395	mm_glutamatergic neuron	0.14
+mm_L6 corticothalamic-projecting glutamatergic cortical neuron	hs_84	0.14
+mm_glutamatergic neuron	hs_395	0.14
+mm_L5 intratelencephalic projecting glutamatergic neuron	hs_141	0.14
+hs_299	mm_cerebellar neuron	0.14
+mm_thalamic excitatory neuron	hs_445	0.14
+hs_84	mm_L6 corticothalamic-projecting glutamatergic cortical neuron	0.14
+mm_mammillary body neuron	hs_331	0.14
+hs_141	mm_L5 intratelencephalic projecting glutamatergic neuron	0.14
+mm_cerebellar neuron	hs_299	0.14
+hs_308	mm_Bergmann glial cell	0.14
+mm_L6 corticothalamic-projecting glutamatergic cortical neuron	hs_85	0.13
+hs_380	mm_GABAergic neuron	0.13
+hs_227	mm_medium spiny neuron	0.13
+mm_medium spiny neuron	hs_426	0.13
+hs_85	mm_L6 corticothalamic-projecting glutamatergic cortical neuron	0.13
+mm_GABAergic neuron	hs_380	0.13
+hs_426	mm_medium spiny neuron	0.13
+hs_277	mm_lamp5 GABAergic cortical interneuron	0.13
+hs_237	mm_pvalb GABAergic cortical interneuron	0.13
+mm_medium spiny neuron	hs_227	0.13
+mm_pvalb GABAergic cortical interneuron	hs_237	0.13
+mm_lamp5 GABAergic cortical interneuron	hs_277	0.13
+mm_intratelencephalic-projecting glutamatergic cortical neuron	hs_145	0.12
+mm_L4/5 intratelencephalic projecting glutamatergic neuron	hs_139	0.12
+mm_glutamatergic neuron	hs_118	0.12
+mm_L5 extratelencephalic projecting glutamatergic cortical neuron	hs_118	0.12
+hs_145	mm_intratelencephalic-projecting glutamatergic cortical neuron	0.12
+hs_283	mm_vip GABAergic cortical interneuron	0.12
+hs_298	mm_cerebellar inhibitory GABAergic interneuron	0.12
+hs_291	mm_sncg GABAergic cortical interneuron	0.12
+hs_217	mm_GABAergic neuron	0.12
+hs_379	mm_neuron	0.12
+hs_237	mm_medial ganglionic eminence derived GABAergic cortical interneuron	0.12
+hs_301	mm_cerebellar neuron	0.12
+hs_118	mm_glutamatergic neuron	0.12
+mm_vip GABAergic cortical interneuron	hs_283	0.12
+mm_cerebellar inhibitory GABAergic interneuron	hs_298	0.12
+mm_neuron	hs_379	0.12
+hs_118	mm_L5 extratelencephalic projecting glutamatergic cortical neuron	0.12
+mm_GABAergic neuron	hs_217	0.12
+mm_sncg GABAergic cortical interneuron	hs_291	0.12
+mm_medial ganglionic eminence derived GABAergic cortical interneuron	hs_237	0.12
+mm_cerebellar neuron	hs_301	0.12
+hs_139	mm_L4/5 intratelencephalic projecting glutamatergic neuron	0.12
+hs_150	mm_astrocyte of the cerebral cortex	0.11
+hs_192	mm_intratelencephalic-projecting glutamatergic cortical neuron	0.11
+hs_180	mm_intratelencephalic-projecting glutamatergic cortical neuron	0.11
+mm_intratelencephalic-projecting glutamatergic cortical neuron	hs_192	0.11
+mm_L6b glutamatergic cortical neuron	hs_100	0.11
+hs_100	mm_L6b glutamatergic cortical neuron	0.11
+mm_D1/D2-hybrid medium spiny neuron	hs_227	0.11
+mm_astrocyte of the cerebral cortex	hs_150	0.11
+mm_intratelencephalic-projecting glutamatergic cortical neuron	hs_180	0.11
+hs_227	mm_D1/D2-hybrid medium spiny neuron	0.11
+hs_339	mm_neuron	0.1
+hs_409	mm_olfactory granule cell	0.1
+mm_neuron	hs_339	0.1
+hs_146	mm_intratelencephalic-projecting glutamatergic cortical neuron	0.1
+hs_237	mm_sst GABAergic cortical interneuron	0.1
+hs_83	mm_L6 corticothalamic-projecting glutamatergic cortical neuron	0.1
+mm_L6 corticothalamic-projecting glutamatergic cortical neuron	hs_83	0.1
+mm_intratelencephalic-projecting glutamatergic cortical neuron	hs_146	0.1
+mm_olfactory granule cell	hs_409	0.1
+mm_sst GABAergic cortical interneuron	hs_237	0.1

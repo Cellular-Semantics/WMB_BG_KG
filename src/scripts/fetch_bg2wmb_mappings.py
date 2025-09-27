@@ -2,13 +2,17 @@ import requests
 import sys
 from pathlib import Path
 
+# Find project root
+script_dir = Path(__file__).resolve().parent
+project_root = script_dir.parent.parent
+
 # Google Sheet ID and GID
 SHEET_ID = "1NwO-_BQumtfVYcTNP--vRa5434Elvj5me1oEKV1Q-gE"
 GID = "1470945829"
 CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv&gid={GID}"
 
 # Output path
-OUT_PATH = Path(__file__).parent.parent.parent / "resources" / "MWB_consensus_homology.csv"
+OUT_PATH = project_root / "resources" / "MWB_consensus_homology.csv"
 
 def main():
     try:

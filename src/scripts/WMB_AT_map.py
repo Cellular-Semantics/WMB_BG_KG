@@ -1,12 +1,17 @@
 import requests
 import json
 import pandas as pd
+from pathlib import Path
+
+# Find project root
+script_dir = Path(__file__).resolve().parent
+project_root = script_dir.parent.parent
 
 wmb = requests.get("https://github.com/brain-bican/whole_mouse_brain_taxonomy/raw/refs/heads/main/CCN20230722.json")
 wmb_json = wmb.text
 wmb_data = json.loads(wmb_json)
 
-WMB_AT = pd.read_csv('resources/MWB_consensus_homology.csv',
+WMB_AT = pd.read_csv(project_root / 'resources' / 'MWB_consensus_homology.csv',
                       sep=',').dropna(how='all')
 
 ## Columns 'curated_ABC_WMB_supertype' and 'curated_ABC_WMB_cluster' contain the labels of transferred WMB terms
@@ -114,7 +119,7 @@ for idx, row in WMB_AT.iterrows():
 new_table = pd.DataFrame(new_rows)
 print(new_table.head())
 
-new_table.to_csv('src/templates/BG2WMB_AT_map_template.tsv', sep='\t', index=False)
+new_table.to_csv(project_root / 'src' / 'templates' / 'BG2WMB_AT_map_template.tsv', sep='\t', index=False)
 
 
 

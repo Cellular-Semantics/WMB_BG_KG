@@ -1,0 +1,339 @@
+label	accession
+001 CLA-EPd-CTX Car3 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_001
+002 IT EP-CLA Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_002
+003 L5/6 IT TPE-ENT Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_003
+004 L6 IT CTX Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_004
+005 L5 IT CTX Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_005
+006 L4/5 IT CTX Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_006
+007 L2/3 IT CTX Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_007
+008 L2/3 IT ENT Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_008
+009 L2/3 IT PIR-ENTl Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_009
+010 IT AON-TT-DP Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_010
+011 L2 IT ENT-po Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_011
+012 MEA Slc17a7 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_012
+013 COAp Grxcr2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_013
+014 LA-BLA-BMA-PA Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_014
+015 ENTmv-PA-COAp Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_015
+016 CA1-ProS Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_016
+017 CA3 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_017
+018 L2 IT PPP-APr Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_018
+019 L2/3 IT PPP Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_019
+020 L2/3 IT RSP Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_020
+021 L4 RSP-ACA Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_021
+022 L5 ET CTX Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_022
+023 SUB-ProS Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_023
+024 L5 PPP Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_024
+025 CA2-FC-IG Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_025
+026 NLOT Rho Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_026
+027 L6b EPd Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_027
+028 L6b/CT ENT Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_028
+029 L6b CTX Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_029
+030 L6 CT CTX Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_030
+031 CT SUB Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_031
+032 L5 NP CTX Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_032
+033 NP SUB Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_033
+034 NP PPP Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_034
+035 OB Eomes Ms4a15 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_035
+036 HPF CR Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_036
+037 DG Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_037
+038 DG-PIR Ex IMN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_038
+039 OB Meis2 Thsd7b Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_039
+040 OB Trdn Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_040
+041 OB-in Frmd7 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_041
+042 OB-out Frmd7 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_042
+043 OB-mi Frmd7 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_043
+044 OB Dopa-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_044
+045 OB-STR-CTX Inh IMN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_045
+046 Vip Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_046
+047 Sncg Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_047
+048 RHP-COA Ndnf Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_048
+049 Lamp5 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_049
+050 Lamp5 Lhx6 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_050
+051 Pvalb chandelier Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_051
+052 Pvalb Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_052
+053 Sst Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_053
+054 STR Prox1 Lhx6 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_054
+055 STR Lhx8 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_055
+056 Sst Chodl Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_056
+057 NDB-SI-MA-STRv Lhx8 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_057
+058 PAL-STR Gaba-Chol	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_058
+059 GPe-SI Sox6 Cyp26b1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_059
+060 OT D3 Folh1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_060
+061 STR D1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_061
+062 STR D2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_062
+063 STR D1 Sema5a Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_063
+064 STR-PAL Chst9 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_064
+065 IA Mgp Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_065
+066 NDB-SI-ant Prdm12 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_066
+067 LSX Sall3 Pax6 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_067
+068 LSX Otx2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_068
+069 LSX Nkx2-1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_069
+070 LSX Prdm12 Slit2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_070
+071 LSX Prdm12 Zeb2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_071
+072 LSX Sall3 Lmo1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_072
+073 MEA-BST Sox6 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_073
+074 MEA-BST Lhx6 Sp9 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_074
+075 MEA-BST Lhx6 Nr2e1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_075
+076 MEA-BST Lhx6 Nfib Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_076
+077 CEA-BST Gal Avp Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_077
+078 SI-MA-ACB Ebf1 Bnc2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_078
+079 CEA-BST Six3 Cyp26b1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_079
+080 CEA-AAA-BST Six3 Sp9 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_080
+081 ACB-BST-FS D1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_081
+082 CEA-BST Ebf1 Pdyn Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_082
+083 CEA-BST Rai14 Pdyn Crh Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_083
+084 BST-SI-AAA Six3 Slc22a3 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_084
+085 SI-MPO-LPO Lhx8 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_085
+086 MPO-ADP Lhx8 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_086
+087 MPN-MPO-LPO Lhx6 Zfhx3 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_087
+088 BST Tac2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_088
+089 PVR Six3 Sox3 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_089
+090 BST-MPN Six3 Nrgn Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_090
+091 ARH-PVi Six6 Dopa-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_091
+092 TMv-PMv Tbx3 Hist-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_092
+093 RT-ZI Gnb3 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_093
+094 SCH Six6 Cdc14a Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_094
+095 DMH Prdm13 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_095
+096 PVHd Gsc Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_096
+097 PVHd-SBPV Six3 Prox1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_097
+098 AHN-SBPV-PVHd Pdrm12 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_098
+099 SBPV-PVa Six6 Satb2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_099
+100 AHN Onecut3 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_100
+101 ZI Pax6 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_101
+102 DMH-LHA Gsx1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_102
+103 PVHd-DMH Lhx6 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_103
+104 TU-ARH Otp Six6 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_104
+105 TMd-DMH Foxd2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_105
+106 PVpo-VMPO-MPN Hmx2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_106
+107 DMH Hmx2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_107
+108 ARH-PVp Tbx3 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_108
+109 LGv-ZI Otx2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_109
+110 BST-po Iigp1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_110
+111 TRS-BAC Sln Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_111
+112 GPi Tbr1 Cngb3 Gaba-Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_112
+113 MEA-COA-BMA Ccdc42 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_113
+114 COAa-PAA-MEA Barhl2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_114
+115 MS-SF Bsx Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_115
+116 AVPV-MEPO-SFO Tbr1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_116
+117 LHA Barhl2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_117
+118 ADP-MPO Trp73 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_118
+119 SI-MA-LPO-LHA Skor1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_119
+120 MEA Otp Foxp2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_120
+121 MEA-BST Otp Zic2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_121
+122 LHA-MEA Otp Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_122
+123 DMH Nkx2-4 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_123
+124 MPN-MPO-PVpo Hmx2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_124
+125 DMH Hmx2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_125
+126 ARH-PVp Tbx3 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_126
+127 DMH-LHA Vgll2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_127
+128 VMH Fezf1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_128
+129 VMH Nr5a1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_129
+130 LHA Pmch Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_130
+131 LHA-AHN-PVH Otp Trh Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_131
+132 AHN-RCH-LHA Otp Fezf1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_132
+133 PVH-SO-PVa Otp Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_133
+134 PH-ant-LHA Otp Bsx Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_134
+135 STN-PSTN Pitx2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_135
+136 PMv-TMv Pitx2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_136
+137 PH-an Pitx2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_137
+138 PH Pitx2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_138
+139 PH-LHA Foxb1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_139
+140 PMd-LHA Foxb1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_140
+141 PH-SUM Foxa1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_141
+142 HY Gnrh1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_142
+143 MM-ant Foxb1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_143
+144 MM Foxb1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_144
+145 MH Tac2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_145
+146 LH Pou4f1 Sox1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_146
+147 AD Serpinb7 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_147
+148 AV Col27a1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_148
+149 PVT-PT Ntrk1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_149
+150 CM-IAD-CL-PCN Sema5b Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_150
+151 TH Prkcd Grin2c Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_151
+152 RE-Xi Nox4 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_152
+153 MG-POL-SGN Nts Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_153
+154 PF Fzd5 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_154
+155 PRC-PAG Pax6 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_155
+156 MB-ant-ve Dmrta2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_156
+157 RN Spp1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_157
+158 MRN-PAG Nkx6-1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_158
+159 IF-RL-CLI-PAG Foxa1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_159
+160 PAG-SC Neurod2 Meis2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_160
+161 PAG Pou4f3 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_161
+162 CUN Evx2 Lhx2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_162
+163 APN C1ql2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_163
+164 APN C1ql4 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_164
+165 PAG-MRN Pou3f1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_165
+166 MRN Pou3f1 C1ql4 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_166
+167 PRC-PAG Tcf7l2 Irx2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_167
+168 SPA-SPFm-SPFp-POL-PIL-PoT Sp9 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_168
+169 PAG-SC Pou4f1 Zic1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_169
+170 PAG-MRN Tfap2b Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_170
+171 PAG Pou4f1 Bnc2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_171
+172 PAG Pou4f1 Ebf2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_172
+173 PAG Pou4f2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_173
+174 PAG Pou4f2 Mesi2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_174
+175 SC Bnc2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_175
+176 SCig Foxb1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_176
+177 SCig-an-PPT Foxb1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_177
+178 SCig Foxb1 Otx2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_178
+179 SCdg-PAG Tfap2b Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_179
+180 SCiw Pitx2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_180
+181 IC Tfap2d Maf Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_181
+182 CUN-PPN Evx2 Meis2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_182
+183 PBG Mtnr1a Glut-Chol	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_183
+184 PAG Tcf24 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_184
+185 SCig Tfap2b Chrnb3 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_185
+186 SCop Pou4f2 Neurod2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_186
+187 SCsg Pde5a Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_187
+188 SCop Sln Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_188
+189 PAG Ucn Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_189
+190 ND-INC Foxd2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_190
+191 PAG-MRN Rln3 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_191
+192 PPN-CUN-PCG Otp En1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_192
+193 MRN-PPN-CUN Pax8 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_193
+194 MRN-VTN-PPN Pax5 Cdh23 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_194
+195 SNr-VTA Pax5 Npas1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_195
+196 PAG-PPN Pax5 Sox21 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_196
+197 SNr Six3 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_197
+198 IC Six3 En2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_198
+199 PAG-MRN-RN Foxa2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_199
+200 PAG-ND-PCG Onecut1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_200
+201 PAG-RN Nkx2-2 Otx1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_201
+202 PRT Tcf7l2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_202
+203 LGv-SPFp-SPFm Nkx2-2 Tcf7l2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_203
+204 SC Otx2 Gcnt4 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_204
+205 SC-PAG Lef1 Emx2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_205
+206 SCm-PAG Cdh23 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_206
+207 SCs Dmbx1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_207
+208 SC Lef1 Otx2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_208
+209 SCs Pax7 Nfia Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_209
+210 PRT Mecom Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_210
+211 SC Tnnt1 Gli3 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_211
+212 SCs Lef1 Gli3 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_212
+213 SCsg Gabrr2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_213
+214 IPN Otp Crisp1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_214
+215 SNc-VTA-RAmb Foxa1 Dopa	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_215
+216 MB-MY Tph2 Glut-Sero	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_216
+217 PB Lmx1a Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_217
+218 PSV Lmx1a Trpv6 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_218
+219 PB-SUT Tlx3 Lhx2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_219
+220 PB Pax5 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_220
+221 LDT-PCG Vsx2 Lhx4 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_221
+222 PB Evx2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_222
+223 B-PB Nr4a2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_223
+224 PCG-PRNr Vsx2 Nkx6-1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_224
+225 PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_225
+226 PRNc-PARN Tlx1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_226
+227 PB-PSV Phox2b Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_227
+228 PSV Pvalb Lhx2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_228
+229 PB-NTS Phox2b Ebf3 Lmx1b Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_229
+230 PRNr Otp Nfib Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_230
+231 IPN-LDT Vsx2 Nkx6-1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_231
+232 LDT Vsx2 Nkx6-1 Nfib Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_232
+233 NLL-SOC Spp1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_233
+234 MEV Ppp1r1c Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_234
+235 PG-TRN-LRN Fat2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_235
+236 IRN Vip Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_236
+237 PRP-NI-PRNc-GRN Otp Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_237
+238 NTS Phox2b Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_238
+239 MARN-GRN Pyy Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_239
+240 MDRNv Lhx4 Qrfprl Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_240
+241 NTS Mbnl3 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_241
+242 PGRNd Dmbx1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_242
+243 PGRN-PARN-MDRN Hoxb5 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_243
+244 MV-SPIV Slc6a2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_244
+245 SPVI-SPVC Tlx3 Ebf3 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_245
+246 CU-ECU-SPVI Foxb1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_246
+247 MV-SPIV Phox2b Ebf3 Lbx1 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_247
+248 MV-SPIV Zic4 Neurod2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_248
+249 NTS Aldh1a2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_249
+250 CBN Neurod2 Pvalb Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_250
+251 NTS Dbh Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_251
+252 DMX VII Tbx20 Chol	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_252
+253 IO Fgl2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_253
+254 VCO Mafa Meis2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_254
+255 SPVO Mafa Meis2 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_255
+256 SPVC Mafa Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_256
+257 SPVC Ccdc172 Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_257
+258 SPVC Nmu Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_258
+259 MDRNd Bves Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_259
+260 MDRNv Crp Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_260
+261 HB Calcb Chol	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_261
+262 Pineal Crx Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_262
+263 CS-RPO Meis2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_263
+264 PRNc Otp Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_264
+265 PB Sst Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_265
+266 PRNc Prox1 Brs3 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_266
+267 CS-PRNr-PCG Tmem163 Otp Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_267
+268 CS-PRNr-DR En1 Sox2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_268
+269 LDT Fgf7 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_269
+270 LDT-DTN Gata3 Nfix Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_270
+271 NI-RPO Gata3 Nr4a2 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_271
+272 LDT-PCG-CS Gata3 Lhx1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_272
+273 PDTg-PCG Pax6 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_273
+274 PDTg Otp Shroom3 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_274
+275 PDTg Otp Olig3 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_275
+276 LDT-PCG St18 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_276
+277 DTN-LDT-IPN Otp Pax3 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_277
+278 NLL Gata3 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_278
+279 PSV Pax2 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_279
+280 NLL-po Pax7 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_280
+281 POR Gata3 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_281
+282 POR Spp1 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_282
+283 PRP Otp Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_283
+284 GRN-IRN-MDRNd Ikzf1 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_284
+285 MY Lhx1 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_285
+286 PPY-PGRNl Vip Glyc-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_286
+287 MV-SPIV-PRP Dmbx1 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_287
+288 MDRN Hoxb5 Ebf2 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_288
+289 MDRNd Prox1 Pax6 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_289
+290 MY Prox1 Lmo7 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_290
+291 NTS-MDRNd Prox1 Zic1 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_291
+292 MV Nkx6-1 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_292
+293 PAS-MV Ebf2 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_293
+294 MV Pax6 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_294
+295 CBN Dmbx1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_295
+296 RPA Pax6 Hoxb5 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_296
+297 CU-ECU Pax2 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_297
+298 PRP Gata3 Slc6a5 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_298
+299 MARN-PPY Ngfr Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_299
+300 PARN-MDRNd-NTS Gbx2 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_300
+301 MV Nr4a2 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_301
+302 MV Xdh Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_302
+303 IRN Dmbx1 Pax2 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_303
+304 NTS-PARN Neurod2 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_304
+305 SPVI-SPVC Sall3 Nfib Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_305
+306 SPVI-SPVC Sall3 Lhx1 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_306
+307 RO-RPA Pkd2l1 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_307
+308 DCO Il22 Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_308
+309 CB PLI Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_309
+310 CBX Golgi Gly-Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_310
+311 CBX MLI Megf11 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_311
+312 CBX MLI Cdh22 Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_312
+313 CBX Purkinje Gaba	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_313
+314 CB Granule Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_314
+315 DCO UBC Glut	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_315
+316 Bergmann NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_316
+317 Astro-CB NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_317
+318 Astro-NT NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_318
+319 Astro-TE NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_319
+320 Astro-OLF NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_320
+321 Astroependymal NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_321
+322 Tanycyte NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_322
+323 Ependymal NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_323
+324 Hypendymal NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_324
+325 CHOR NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_325
+326 OPC NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_326
+327 Oligo NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_327
+328 OEC NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_328
+329 ABC NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_329
+330 VLMC NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_330
+331 Peri NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_331
+332 SMC NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_332
+333 Endo NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_333
+334 Microglia NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_334
+335 BAM NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_335
+336 Monocytes NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_336
+337 DC NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_337
+338 Lymphoid NN	https://purl.brain-bican.org/ontology/CCN20230722/CS20230722_SUBC_338
