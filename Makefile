@@ -52,6 +52,7 @@ $(SCFAIR_WHB_WMB_OWL): $(WMB_WHB_TEMPLATE)
 	robot template \
 		--add-prefix "WHB: https://purl.brain-bican.org/ontology/AIT_CS202210140/" \
 		--add-prefix "WMB: https://purl.brain-bican.org/taxonomy/CCN20230722/" \
+		--add-prefix "n2o: http://n2o.neo/property/custom#" \
 		-t $(WMB_WHB_TEMPLATE) \
 		-o $(SCFAIR_WHB_WMB_OWL)
 
