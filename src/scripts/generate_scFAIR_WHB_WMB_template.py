@@ -25,21 +25,24 @@ def main():
     # Create the output DataFrame
     output_df = pd.DataFrame()
     output_df['ID'] = 'WHB:' + df_filtered['Human_cell_set_accession'].astype(str)
+    output_df['Type'] = 'owl:NamedIndividual'
     output_df['skos:exactMatch'] = 'WMB:' + df_filtered['Mouse_accession'].astype(str)
-    output_df['confidence_score >A IAO:0000136'] = df_filtered['score'].astype(str)
+    output_df['score'] = df_filtered['score'].astype(str)
     
     # Create header row
     header_row = pd.DataFrame([{
         'ID': 'ID',
-        'skos:exactMatch': 'AI skos:exactMatch',
-        'confidence_score >A IAO:0000136': 'AI IAO:0000136'
+        'Type': 'Type',
+        'skos:exactMatch': 'skos:exactMatch',
+        'score': 'score'
     }])
     
     # Create template row (second row)
     template_row = pd.DataFrame([{
         'ID': 'ID',
-        'skos:exactMatch': 'AI skos:exactMatch',
-        'confidence_score >A IAO:0000136': 'AI IAO:0000136'
+        'Type': 'TYPE',
+        'skos:exactMatch': 'A skos:exactMatch',
+        'score': '>AT n2o:Confidence^^xsd:float'
     }])
     
     # Combine: header + template + data

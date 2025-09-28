@@ -40,7 +40,7 @@
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Classes
+    // Individuals
     //
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
@@ -50,9 +50,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_1 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_1">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_1">
         <skos:exactMatch>WMB:CS20230722_SUBC_338</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_1"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -64,9 +64,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_101 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_101">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_101">
         <skos:exactMatch>WMB:CS20230722_SUBC_030</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_101"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -78,9 +78,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_107 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_107">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_107">
         <skos:exactMatch>WMB:CS20230722_SUBC_030</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_107"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -92,9 +92,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_108 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_108">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_108">
         <skos:exactMatch>WMB:CS20230722_SUBC_030</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_108"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -106,9 +106,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_109 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_109">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_109">
         <skos:exactMatch>WMB:CS20230722_SUBC_030</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_109"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -120,9 +120,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_110 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_110">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_110">
         <skos:exactMatch>WMB:CS20230722_SUBC_030</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_110"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -134,9 +134,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_111 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_111">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_111">
         <skos:exactMatch>WMB:CS20230722_SUBC_030</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_111"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -148,9 +148,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_112 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_112">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_112">
         <skos:exactMatch>WMB:CS20230722_SUBC_030</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_112"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -162,9 +162,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_113 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_113">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_113">
         <skos:exactMatch>WMB:CS20230722_SUBC_030</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_113"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -176,9 +176,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_114 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_114">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_114">
         <skos:exactMatch>WMB:CS20230722_SUBC_022</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_114"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -190,9 +190,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_115 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_115">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_115">
         <skos:exactMatch>WMB:CS20230722_SUBC_022</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_115"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -204,9 +204,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_117 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_117">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_117">
         <skos:exactMatch>WMB:CS20230722_SUBC_022</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_117"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -218,9 +218,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_118 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_118">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_118">
         <skos:exactMatch>WMB:CS20230722_SUBC_022</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_118"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -232,9 +232,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_119 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_119">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_119">
         <skos:exactMatch>WMB:CS20230722_SUBC_022</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_119"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -246,9 +246,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_128 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_128">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_128">
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_128"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -260,9 +260,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_129 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_129">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_129">
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_129"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -274,9 +274,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_130 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_130">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_130">
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_130"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -288,9 +288,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_131 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_131">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_131">
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_131"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -302,9 +302,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_133 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_133">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_133">
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_133"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -316,9 +316,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_134 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_134">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_134">
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_134"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -330,9 +330,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_135 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_135">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_135">
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_135"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -344,9 +344,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_136 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_136">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_136">
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_136"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -358,9 +358,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_137 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_137">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_137">
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_137"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -372,10 +372,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_138 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_138">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_138">
         <skos:exactMatch>WMB:CS20230722_SUBC_005</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_138"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -393,9 +393,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_139 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_139">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_139">
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_139"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -407,10 +407,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_140 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_140">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_140">
         <skos:exactMatch>WMB:CS20230722_SUBC_005</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_140"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -428,10 +428,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_141 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_141">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_141">
         <skos:exactMatch>WMB:CS20230722_SUBC_005</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_141"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -449,10 +449,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_142 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_142">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_142">
         <skos:exactMatch>WMB:CS20230722_SUBC_005</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_142"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -470,9 +470,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_143 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_143">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_143">
         <skos:exactMatch>WMB:CS20230722_SUBC_005</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_143"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -484,9 +484,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_144 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_144">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_144">
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_144"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -498,10 +498,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_145 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_145">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_145">
         <skos:exactMatch>WMB:CS20230722_SUBC_005</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_006</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_145"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -519,9 +519,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_146 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_146">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_146">
         <skos:exactMatch>WMB:CS20230722_SUBC_004</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_146"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -533,9 +533,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_147 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_147">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_147">
         <skos:exactMatch>WMB:CS20230722_SUBC_004</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_147"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -547,9 +547,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_148 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_148">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_148">
         <skos:exactMatch>WMB:CS20230722_SUBC_004</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_148"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -561,9 +561,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_149 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_149">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_149">
         <skos:exactMatch>WMB:CS20230722_SUBC_004</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_149"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -575,10 +575,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_150 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_150">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_150">
         <skos:exactMatch>WMB:CS20230722_SUBC_004</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_005</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_150"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -596,9 +596,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_151 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_151">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_151">
         <skos:exactMatch>WMB:CS20230722_SUBC_319</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_151"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -610,9 +610,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_2 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_2">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_2">
         <skos:exactMatch>WMB:CS20230722_SUBC_338</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_2"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -624,9 +624,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_208 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_208">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_208">
         <skos:exactMatch>WMB:CS20230722_SUBC_062</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_208"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -638,9 +638,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_209 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_209">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_209">
         <skos:exactMatch>WMB:CS20230722_SUBC_062</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_209"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -652,9 +652,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_210 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_210">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_210">
         <skos:exactMatch>WMB:CS20230722_SUBC_061</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_210"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -666,9 +666,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_211 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_211">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_211">
         <skos:exactMatch>WMB:CS20230722_SUBC_061</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_211"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -680,9 +680,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_212 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_212">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_212">
         <skos:exactMatch>WMB:CS20230722_SUBC_061</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_212"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -694,9 +694,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_213 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_213">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_213">
         <skos:exactMatch>WMB:CS20230722_SUBC_062</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_213"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -708,9 +708,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_214 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_214">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_214">
         <skos:exactMatch>WMB:CS20230722_SUBC_062</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_214"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -722,9 +722,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_215 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_215">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_215">
         <skos:exactMatch>WMB:CS20230722_SUBC_061</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_215"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -736,9 +736,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_216 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_216">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_216">
         <skos:exactMatch>WMB:CS20230722_SUBC_061</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_216"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -750,9 +750,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_217 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_217">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_217">
         <skos:exactMatch>WMB:CS20230722_SUBC_062</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_217"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -764,9 +764,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_218 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_218">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_218">
         <skos:exactMatch>WMB:CS20230722_SUBC_062</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_218"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -778,9 +778,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_219 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_219">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_219">
         <skos:exactMatch>WMB:CS20230722_SUBC_061</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_219"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -792,10 +792,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_220 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_220">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_220">
         <skos:exactMatch>WMB:CS20230722_SUBC_060</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_061</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_220"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -813,9 +813,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_221 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_221">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_221">
         <skos:exactMatch>WMB:CS20230722_SUBC_061</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_221"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -827,9 +827,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_222 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_222">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_222">
         <skos:exactMatch>WMB:CS20230722_SUBC_062</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_222"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -841,9 +841,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_223 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_223">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_223">
         <skos:exactMatch>WMB:CS20230722_SUBC_063</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_223"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -855,9 +855,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_224 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_224">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_224">
         <skos:exactMatch>WMB:CS20230722_SUBC_063</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_224"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -869,9 +869,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_225 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_225">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_225">
         <skos:exactMatch>WMB:CS20230722_SUBC_063</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_225"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -883,9 +883,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_226 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_226">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_226">
         <skos:exactMatch>WMB:CS20230722_SUBC_063</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_226"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -897,9 +897,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_227 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_227">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_227">
         <skos:exactMatch>WMB:CS20230722_SUBC_063</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_227"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -911,9 +911,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_228 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_228">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_228">
         <skos:exactMatch>WMB:CS20230722_SUBC_063</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_228"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -925,9 +925,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_236 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_236">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_236">
         <skos:exactMatch>WMB:CS20230722_SUBC_056</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_236"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -939,9 +939,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_238 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_238">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_238">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_238"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -953,9 +953,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_240 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_240">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_240">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_240"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -967,9 +967,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_242 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_242">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_242">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_242"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -981,9 +981,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_243 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_243">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_243">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_243"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -995,9 +995,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_244 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_244">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_244">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_244"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1009,9 +1009,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_245 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_245">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_245">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_245"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1023,9 +1023,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_246 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_246">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_246">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_246"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1037,9 +1037,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_247 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_247">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_247">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_247"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1051,9 +1051,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_248 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_248">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_248">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_248"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1065,9 +1065,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_249 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_249">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_249">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_249"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1079,9 +1079,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_250 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_250">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_250">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_250"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1093,9 +1093,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_251 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_251">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_251">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_251"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1107,9 +1107,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_252 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_252">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_252">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_252"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1121,9 +1121,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_253 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_253">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_253">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_253"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1135,9 +1135,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_254 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_254">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_254">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_254"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1149,9 +1149,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_255 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_255">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_255">
         <skos:exactMatch>WMB:CS20230722_SUBC_053</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_255"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1163,9 +1163,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_265 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_265">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_265">
         <skos:exactMatch>WMB:CS20230722_SUBC_051</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_265"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1177,9 +1177,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_266 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_266">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_266">
         <skos:exactMatch>WMB:CS20230722_SUBC_051</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_266"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1191,9 +1191,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_267 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_267">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_267">
         <skos:exactMatch>WMB:CS20230722_SUBC_051</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_267"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1205,9 +1205,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_268 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_268">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_268">
         <skos:exactMatch>WMB:CS20230722_SUBC_050</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_268"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1219,9 +1219,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_269 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_269">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_269">
         <skos:exactMatch>WMB:CS20230722_SUBC_050</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_269"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1233,9 +1233,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_270 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_270">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_270">
         <skos:exactMatch>WMB:CS20230722_SUBC_050</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_270"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1247,10 +1247,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_271 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_271">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_271">
         <skos:exactMatch>WMB:CS20230722_SUBC_049</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_050</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_271"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1268,10 +1268,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_272 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_272">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_272">
         <skos:exactMatch>WMB:CS20230722_SUBC_049</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_050</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_272"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1289,9 +1289,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_273 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_273">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_273">
         <skos:exactMatch>WMB:CS20230722_SUBC_049</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_273"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1303,10 +1303,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_274 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_274">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_274">
         <skos:exactMatch>WMB:CS20230722_SUBC_049</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_050</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_274"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1324,9 +1324,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_275 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_275">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_275">
         <skos:exactMatch>WMB:CS20230722_SUBC_049</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_275"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1338,9 +1338,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_276 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_276">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_276">
         <skos:exactMatch>WMB:CS20230722_SUBC_049</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_276"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1352,10 +1352,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_277 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_277">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_277">
         <skos:exactMatch>WMB:CS20230722_SUBC_047</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_048</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_277"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1373,9 +1373,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_278 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_278">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_278">
         <skos:exactMatch>WMB:CS20230722_SUBC_049</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_278"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1387,9 +1387,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_279 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_279">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_279">
         <skos:exactMatch>WMB:CS20230722_SUBC_049</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_279"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1401,10 +1401,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_280 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_280">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_280">
         <skos:exactMatch>WMB:CS20230722_SUBC_047</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_048</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_280"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1422,9 +1422,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_281 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_281">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_281">
         <skos:exactMatch>WMB:CS20230722_SUBC_047</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_281"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1436,9 +1436,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_282 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_282">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_282">
         <skos:exactMatch>WMB:CS20230722_SUBC_047</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_282"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1450,10 +1450,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_283 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_283">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_283">
         <skos:exactMatch>WMB:CS20230722_SUBC_047</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_049</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_283"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1471,10 +1471,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_284 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_284">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_284">
         <skos:exactMatch>WMB:CS20230722_SUBC_046</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_049</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_284"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1492,9 +1492,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_285 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_285">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_285">
         <skos:exactMatch>WMB:CS20230722_SUBC_046</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_285"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1506,9 +1506,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_286 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_286">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_286">
         <skos:exactMatch>WMB:CS20230722_SUBC_046</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_286"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1520,9 +1520,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_287 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_287">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_287">
         <skos:exactMatch>WMB:CS20230722_SUBC_049</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_287"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1534,9 +1534,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_288 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_288">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_288">
         <skos:exactMatch>WMB:CS20230722_SUBC_049</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_288"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1548,9 +1548,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_289 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_289">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_289">
         <skos:exactMatch>WMB:CS20230722_SUBC_049</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_289"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1562,9 +1562,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_290 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_290">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_290">
         <skos:exactMatch>WMB:CS20230722_SUBC_046</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_290"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1576,9 +1576,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_291 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_291">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_291">
         <skos:exactMatch>WMB:CS20230722_SUBC_046</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_291"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1590,10 +1590,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_292 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_292">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_292">
         <skos:exactMatch>WMB:CS20230722_SUBC_046</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_047</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_292"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1611,9 +1611,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_293 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_293">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_293">
         <skos:exactMatch>WMB:CS20230722_SUBC_046</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_293"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1625,9 +1625,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_294 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_294">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_294">
         <skos:exactMatch>WMB:CS20230722_SUBC_046</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_294"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1639,9 +1639,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_295 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_295">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_295">
         <skos:exactMatch>WMB:CS20230722_SUBC_046</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_295"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1653,9 +1653,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_296 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_296">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_296">
         <skos:exactMatch>WMB:CS20230722_SUBC_046</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_296"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1667,9 +1667,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_297 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_297">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_297">
         <skos:exactMatch>WMB:CS20230722_SUBC_046</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_297"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1681,9 +1681,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_298 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_298">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_298">
         <skos:exactMatch>WMB:CS20230722_SUBC_262</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_298"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1695,9 +1695,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_299 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_299">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_299">
         <skos:exactMatch>WMB:CS20230722_SUBC_309</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_299"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1709,9 +1709,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_3 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_3">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_3">
         <skos:exactMatch>WMB:CS20230722_SUBC_338</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_3"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1723,9 +1723,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_300 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_300">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_300">
         <skos:exactMatch>WMB:CS20230722_SUBC_309</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_300"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1737,9 +1737,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_301 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_301">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_301">
         <skos:exactMatch>WMB:CS20230722_SUBC_309</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_301"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1751,9 +1751,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_303 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_303">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_303">
         <skos:exactMatch>WMB:CS20230722_SUBC_310</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_303"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1765,10 +1765,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_309 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_309">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_309">
         <skos:exactMatch>WMB:CS20230722_SUBC_315</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_316</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_309"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1786,9 +1786,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_310 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_310">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_310">
         <skos:exactMatch>WMB:CS20230722_SUBC_314</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_310"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1800,9 +1800,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_311 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_311">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_311">
         <skos:exactMatch>WMB:CS20230722_SUBC_314</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_311"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1814,10 +1814,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_312 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_312">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_312">
         <skos:exactMatch>WMB:CS20230722_SUBC_262</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_314</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_312"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1835,9 +1835,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_313 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_313">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_313">
         <skos:exactMatch>WMB:CS20230722_SUBC_314</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_313"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1849,9 +1849,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_314 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_314">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_314">
         <skos:exactMatch>WMB:CS20230722_SUBC_036</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_314"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1863,9 +1863,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_315 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_315">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_315">
         <skos:exactMatch>WMB:CS20230722_SUBC_313</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_315"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1877,9 +1877,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_357 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_357">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_357">
         <skos:exactMatch>WMB:CS20230722_SUBC_307</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_357"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1891,9 +1891,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_366 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_366">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_366">
         <skos:exactMatch>WMB:CS20230722_SUBC_250</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_366"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1905,10 +1905,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_367 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_367">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_367">
         <skos:exactMatch>WMB:CS20230722_SUBC_318</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_327</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_367"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1926,9 +1926,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_396 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_396">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_396">
         <skos:exactMatch>WMB:CS20230722_SUBC_215</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_396"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1940,12 +1940,12 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_4 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_4">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_4">
         <skos:exactMatch>WMB:CS20230722_SUBC_334</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_335</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_336</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_337</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_4"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1975,10 +1975,10 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_416 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_416">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_416">
         <skos:exactMatch>WMB:CS20230722_SUBC_322</skos:exactMatch>
         <skos:exactMatch>WMB:CS20230722_SUBC_325</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_416"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -1996,9 +1996,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_428 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_428">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_428">
         <skos:exactMatch>WMB:CS20230722_SUBC_081</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_428"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -2010,9 +2010,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_430 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_430">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_430">
         <skos:exactMatch>WMB:CS20230722_SUBC_325</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_430"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -2024,9 +2024,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_84 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_84">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_84">
         <skos:exactMatch>WMB:CS20230722_SUBC_030</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_84"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -2038,9 +2038,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_85 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_85">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_85">
         <skos:exactMatch>WMB:CS20230722_SUBC_030</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_85"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
@@ -2052,9 +2052,9 @@
 
     <!-- https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_86 -->
 
-    <Class rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_86">
+    <NamedIndividual rdf:about="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_86">
         <skos:exactMatch>WMB:CS20230722_SUBC_030</skos:exactMatch>
-    </Class>
+    </NamedIndividual>
     <Axiom>
         <annotatedSource rdf:resource="https://purl.brain-bican.org/ontology/AIT_CS202210140/CS202210140_86"/>
         <annotatedProperty rdf:resource="http://www.w3.org/2004/02/skos/core#exactMatch"/>
