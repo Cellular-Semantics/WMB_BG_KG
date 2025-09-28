@@ -41,7 +41,7 @@ def main():
     template_row = pd.DataFrame([{
         'ID': 'ID',
         'Type': 'TYPE',
-        'skos:exactMatch': 'A skos:exactMatch',
+        'skos:exactMatch': 'AI skos:exactMatch',
         'score': '>AT n2o:Confidence^^xsd:float'
     }])
     

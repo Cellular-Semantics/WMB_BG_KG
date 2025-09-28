@@ -1,5 +1,5 @@
 ID	Type	skos:exactMatch	score
-ID	TYPE	A skos:exactMatch	>AT n2o:Confidence^^xsd:float
+ID	TYPE	AI skos:exactMatch	>AT n2o:Confidence^^xsd:float
 WHB:CS202210140_3	owl:NamedIndividual	WMB:CS20230722_SUBC_338	1.0
 WHB:CS202210140_1	owl:NamedIndividual	WMB:CS20230722_SUBC_338	0.99
 WHB:CS202210140_2	owl:NamedIndividual	WMB:CS20230722_SUBC_338	0.99
